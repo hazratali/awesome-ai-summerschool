@@ -18,6 +18,7 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 [Climate Change AI Summer School](https://www.climatechange.ai/events/summer_school2022)|Virtual|15 - 26 Aug 2022 | 17 Dec 2021|Professors from UC Berkeley, Stanford|Free|Free
 [Data Science and AI in Health](hhttps://www.rug.nl/research/gradschool-medical-sciences/summer-schools/data-science-and-ai/)|Groningen, The Netherlands|04 - 08 July 2022 | Not announced yet| University of Groningen|Not announced yet|Few available
 [AI 4 Health Winter School](https://ai4healthschool.org/)|Paris, France (Online)|10 - 14 Jan 2022 | Closed| French Health Data Hub and PRAIRIE (Paris)|50 - 150 Euros|Few available
+[Lisbon Machine Learning Summer School]|Lisbon (Portugal)|07 - 15 July 2022|Not announced yet|NA|Lisbon | Not announced | Few available
 
 
 ## FAQs
