@@ -17,6 +17,7 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Vilnius Lithuania|6 - 14 July 2022 | Not announced yet| Google - DeepMind|Not announced yet|Few available
 [Data Science and AI in Health](hhttps://www.rug.nl/research/gradschool-medical-sciences/summer-schools/data-science-and-ai/)|Groningen, The Netherlands|04 - 08 July 2022 | Not announced yet| University of Groningen|Not announced yet|Few available
 [AI 4 Health Winter School](https://ai4healthschool.org/)|Paris, France (Online)|10 - 14 Jan 2022 | Closed| French Health Data Hub and PRAIRIE (Paris)|50 - 150 Euros|Few available
+[Lisbon Machine Learning Summer School]|Lisbon (Portugal)|07 - 15 July 2022|Not announced yet|NA|Lisbon | Not announced | Few available
 
 
 ## FAQs
