@@ -31,3 +31,14 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 - We are only providing a list of summer schools. The respective webpages may be visited to know more about any scholarship opportunities they may have. 
 
 </details>
+
+## Credits
+<details>
+      <summary>Click to expand for credits</summary>
+
+> What inspired this list?
+- The repo takes an inspiration from the awesome-mlss repo. 
+> Does the list include the same summer schools as available on awesome-mlss repo?
+- No. However, some of the enteries in the lists may overlap. The purpose is to share the opportunities with the community and aspiring AI researchers/engineers, data scientists.  
+
+</details>
