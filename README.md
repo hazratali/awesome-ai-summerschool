@@ -17,7 +17,7 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Vilnius Lithuania|6 - 14 July 2022 | Not announced yet| Google - DeepMind|Not announced yet|Few available
 [Data Science and AI in Health](hhttps://www.rug.nl/research/gradschool-medical-sciences/summer-schools/data-science-and-ai/)|Groningen, The Netherlands|04 - 08 July 2022 | Not announced yet| University of Groningen|Not announced yet|Few available
 [AI 4 Health Winter School](https://ai4healthschool.org/)|Paris, France (Online)|10 - 14 Jan 2022 | Closed| French Health Data Hub and PRAIRIE (Paris)|50 - 150 Euros|Few available
-
+[Lisbon Machine Learning Summer School](http://lxmls.it.pt/2021/)|Lisob (Portugal)|July 7th to July 15th|Not announced yet|NA
 
 ## FAQs
 <details>
@@ -29,16 +29,5 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 - You may add summer school that you are organiaing/co-organizing or add any other related summer school that you wish to share with the community. 
 > Do you provide funding/scholarships for the students?
 - We are only providing a list of summer schools. The respective webpages may be visited to know more about any scholarship opportunities they may have. 
-
-</details>
-
-## Credits
-<details>
-      <summary>Click to expand for credits</summary>
-
-> What inspired this list?
-- The repo takes an inspiration from the awesome-mlss repo. 
-> Does the list include the same summer schools as available on awesome-mlss repo?
-- No. However, some of the enteries in the lists may overlap. The purpose is to share the opportunities with the community and aspiring AI researchers/engineers, data scientists.  
 
 </details>
