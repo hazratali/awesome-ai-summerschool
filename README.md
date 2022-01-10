@@ -12,7 +12,7 @@
 
 ## Summer Schools in 2022
 Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
-------|--|--|---|--|-|-
+------|--|---|---|--|-|-
 [Oxford Machine Learning School - ML x Health](https://www.oxfordml.school/)|Oxford (St Catherine's College)|07 - 10 Aug 2022 |15 April 2022|Global Goals AI|Not announced yet|Few available
 [Oxford Machine Learning School - ML x Finance](https://www.oxfordml.school/)|Oxford (St Catherine's College)|11 - 14 Aug 2022 |15 April 2022|Global Goals AI|Not announced yet|Few available
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Vilnius Lithuania|6 - 14 July 2022 | Not announced yet| Google - DeepMind|Not announced yet|Few available
