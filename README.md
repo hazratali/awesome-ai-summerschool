@@ -10,7 +10,7 @@
 
 ## Summer Schools in 2022
 Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
-------|--|---|---|--|-|-|
+------|--|----|---|--|-|-|
 [Law, Ethics & Policy of Artificial Intelligence](https://www.law.kuleuven.be/ai-summer-school)|Leuven, Berlin|12 - 21 Sep 2022 |Not announced yet|KU Leuven|Not announced yet|To be confirmed
 [Oxford Machine Learning School - ML x Health](https://www.oxfordml.school/)|Oxford (and Virutal) |07 - 10 Aug 2022 |15 April 2022|AI for Global Goals, CIFAR, and Oxford Deep Medicine|Not announced yet|Few available
 [Oxford Machine Learning School - ML x Finance](https://www.oxfordml.school/)|Oxford (and Virutal) |11 - 14 Aug 2022 |15 April 2022|AI for Global Goals, CIFAR, and Oxford Deep Medicine|Not announced yet|Few available
@@ -21,6 +21,7 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 [AI 4 Health Winter School](https://ai4healthschool.org/)|Paris, France (Online)|10 - 14 Jan 2022 | Closed| French Health Data Hub and PRAIRIE (Paris)|50 - 150 Euros|Few available
 [Lisbon Machine Learning Summer School](http://lxmls.it.pt/2021/)|Lisbon (Portugal)|07 - 15 July 2022| Not announced|Lisbon| Not announced | Few available
 [Vision Understanding & Machine Intelligence Summer School (VISUM)](https://visum.inesctec.pt/)|Porto (Portugal)|10 - 16 July 2022|31 March 2022| INESC TEC research association | 700 Euros | Few available
+[Leibniz AI Lab Summer School – AI For Bio-Medicine (AI4BM)](https://knure.l3s.de/summer-school-en/)|Hannover, Germany|July 2022|15 March 2022| Kharkiv National University of Radio Electronics | NA | Available only for students of Leibniz University Hannover
 
 
 ## FAQs
