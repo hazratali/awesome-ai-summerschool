@@ -14,6 +14,7 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 [Law, Ethics & Policy of Artificial Intelligence](https://www.law.kuleuven.be/ai-summer-school)|Leuven, Berlin|12 - 21 Sep 2022 |Not announced yet|KU Leuven|Not announced yet|To be confirmed
 [Oxford Machine Learning School - ML x Health](https://www.oxfordml.school/)|Oxford (and Virutal) |07 - 10 Aug 2022 |15 April 2022|AI for Global Goals, CIFAR, and Oxford Deep Medicine|Not announced yet|Few available
 [Oxford Machine Learning School - ML x Finance](https://www.oxfordml.school/)|Oxford (and Virutal) |11 - 14 Aug 2022 |15 April 2022|AI for Global Goals, CIFAR, and Oxford Deep Medicine|Not announced yet|Few available
+[UCL Medical Image Computing Summer School (MedICSS)](https://medicss.cs.ucl.ac.uk/)|UCL London (and Virtual)|11 - 15 July 2022 | 18 March 2022| UCL |50 - 70 GBP|N/A
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Vilnius Lithuania|6 - 14 July 2022 | Not announced yet| Google - DeepMind|Not announced yet|Few available
 [Summer School of Machine Learnig at Skoltech](https://smiles.skoltech.ru/school)|Moscow, Russia (Fully Online)|15 - 22 Aug 2022 | 01 Aug 2022| Professors from Skoltech|Free|Free
 [Climate Change AI Summer School](https://www.climatechange.ai/events/summer_school2022)|Virtual|15 - 26 Aug 2022 | 17 Dec 2021|Professors from UC Berkeley, Stanford|Free|Free
