@@ -16,7 +16,7 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 [Oxford Machine Learning School - ML x Finance](https://www.oxfordml.school/)|Oxford (and Virutal) |11 - 14 Aug 2022 |15 April 2022|AI for Global Goals, CIFAR, and Oxford Deep Medicine|Not announced yet|Few available
 [UCL Medical Image Computing Summer School (MedICSS)](https://medicss.cs.ucl.ac.uk/)|UCL London (and Virtual)|11 - 15 July 2022 | 18 March 2022| UCL |50 - 70 GBP|N/A
 [London Geometry and Machine Learning Summer School 2022 (LOGML)](https://www.logml.ai/)|London (and Virtual)|11 - 15 July 2022 | Not announced yet| Researchers from Imperial College and others |Not annonced yet |N/A
-[Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Vilnius Lithuania|6 - 14 July 2022 | Not announced yet| Google - DeepMind|Not announced yet|Few available
+[Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Vilnius Lithuania (and virtual) |6 - 14 July 2022 | 16 April 2022| Google - DeepMind| Free |Not available. No fee
 [Summer School of Machine Learnig at Skoltech](https://smiles.skoltech.ru/school)|Moscow, Russia (Fully Online)|15 - 22 Aug 2022 | 01 Aug 2022| Professors from Skoltech|Free|Free
 [Climate Change AI Summer School](https://www.climatechange.ai/events/summer_school2022)|Virtual|15 - 26 Aug 2022 | 17 Dec 2021|Professors from UC Berkeley, Stanford|Free|Free
 [Data Science and AI in Health](hhttps://www.rug.nl/research/gradschool-medical-sciences/summer-schools/data-science-and-ai/)|Groningen, The Netherlands|04 - 08 July 2022 | Not announced yet| University of Groningen|Not announced yet|Few available
