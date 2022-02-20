@@ -24,6 +24,9 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 [Lisbon Machine Learning Summer School](http://lxmls.it.pt/2021/)|Lisbon (Portugal)|07 - 15 July 2022| Not announced|Lisbon| Not announced | Few available
 [Vision Understanding & Machine Intelligence Summer School (VISUM)](https://visum.inesctec.pt/)|Porto (Portugal)|10 - 16 July 2022|31 March 2022| INESC TEC research association | 700 Euros | Few available
 [International Computer Vision Summer School (ICVSS)](https://iplab.dmi.unict.it/icvss2022/)|Sicily (Italy) |10 - 16 July 2022|Not announced yet| Image Processing Lab, University of Catalina | Not announced yet | Few available
+[Machine Learning Crash Course (MLCC 2022)](https://malga.unige.it/education/schools/mlcc2022)|Genoa, Italy |27 June - 1 July 2022 |15 April 2022| Machine Learning Geona Center, University of Genoa | 50 Euro - 100 Euro | Available for Unige students
+[Deep learning: a hands-on course](https://malga.unige.it/education/schools/dl2022)|Genoa, Italy |12 - 20 July 2022 |30 April 2022| Machine Learning Geona Center, University of Genoa | 50 Euro - 100 Euro | Available for Unige students
+[Computer Vision Crash Course (CVCC 2022)](https://malga.unige.it/education/schools/cvcc2022)|Genoa, Italy |12 - 20 July 2022 |30 April 2022| Machine Learning Geona Center, University of Genoa | 50 Euro - 100 Euro | Available for Unige students
 [Leibniz AI Lab Summer School – AI For Bio-Medicine (AI4BM)](https://knure.l3s.de/summer-school-en/)|Hannover, Germany|July 2022|15 March 2022| Kharkiv National University of Radio Electronics | NA | Available only for students of Leibniz University Hannover
 
 
