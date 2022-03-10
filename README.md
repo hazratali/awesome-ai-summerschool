@@ -31,6 +31,7 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 [Deep learning: a hands-on course](https://malga.unige.it/education/schools/dl2022)|Genoa, Italy |12 - 20 July 2022 |30 April 2022| Machine Learning Geona Center, University of Genoa | 50 Euro - 100 Euro | Available for Unige students
 [Computer Vision Crash Course (CVCC 2022)](https://malga.unige.it/education/schools/cvcc2022)|Genoa, Italy |12 - 20 July 2022 |30 April 2022| Machine Learning Geona Center, University of Genoa | 50 Euro - 100 Euro | Available for Unige students
 [Leibniz AI Lab Summer School – AI For Bio-Medicine (AI4BM)](https://knure.l3s.de/summer-school-en/)|Hannover, Germany|July 2022|15 March 2022| Kharkiv National University of Radio Electronics | NA | Available only for students of Leibniz University Hannover
+[Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Helsinki, Finland|13 - 17 June 2022|27 March 2022|  University of Helsinki and Finnish Center for Artificial Intelligence (FCAI)| 250 Euros for Student, 500 Euros for Academia | Available 
 
 
 ## FAQs
