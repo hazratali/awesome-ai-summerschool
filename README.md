@@ -16,6 +16,7 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 [Mediterranean Machine Learning (M2L)](https://www.m2lschool.org/)|Milan, Italy|12 - 16 Sep 2022 |02 April 2022|AI Education Foundation and DeepMind Researchers|Free for PhD/Master students. 100 Euros for others|Few available
 [Oxford Machine Learning School - ML x Health](https://www.oxfordml.school/)|Oxford (and Virutal) |07 - 10 Aug 2022 |15 April 2022|AI for Global Goals, CIFAR, and Oxford Deep Medicine|Not announced yet|Few available
 [Oxford Machine Learning School - ML x Finance](https://www.oxfordml.school/)|Oxford (and Virutal) |11 - 14 Aug 2022 |15 April 2022|AI for Global Goals, CIFAR, and Oxford Deep Medicine|Not announced yet|Few available
+[Neuromatch Academy Deep Learning course](https://academy.neuromatch.io//)|Virtual|11 - 29 July 2022 | 18 March 2022| Neuromatch Academy |20 USD - 400 USD|Available (Unique waiver)
 [UCL Medical Image Computing Summer School (MedICSS)](https://medicss.cs.ucl.ac.uk/)|UCL London (and Virtual)|11 - 15 July 2022 | 18 March 2022| UCL |50 - 70 GBP|N/A
 [Reinforcement Learning Summer School](http://rlsummerschool.com/)|Amsterdam, The Netherlands|11 - 15 July 2022 | Not available| University of Amsterdam |500 - 600 Euros|N/A
 [London Geometry and Machine Learning Summer School 2022 (LOGML)](https://www.logml.ai/)|London (and Virtual)|11 - 15 July 2022 | Not announced yet| Researchers from Imperial College and others |Not annonced yet |N/A
