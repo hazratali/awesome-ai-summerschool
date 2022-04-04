@@ -14,6 +14,7 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 [Law, Ethics & Policy of Artificial Intelligence](https://www.law.kuleuven.be/ai-summer-school)|Leuven, Berlin|12 - 21 Sep 2022 |15 May 2022|KU Leuven|675 Euro to 875 Euro|Few available
 [NGSchool 2022: Machine Learning in Computational Biology](https://ngschool.eu/ngschool2022/)|Jabłonna, Poland|15 - 23 Sep 2022 |Not announed yet|Researchers from Oxford and Warsaw with others|Not announced yet|Few available
 [Mediterranean Machine Learning (M2L)](https://www.m2lschool.org/)|Milan, Italy|12 - 16 Sep 2022 |02 April 2022|AI Education Foundation and DeepMind Researchers|Free for PhD/Master students. 100 Euros for others|Few available
+[Deep Learning Indaba](https://deeplearningindaba.com/blog/2022/03/the-deep-learning-indaba-2022-in-tunis-applications-open/)|Tunis, Tunisia|21 - 26 Aug 2022 |08 April 2022|Deep Learning Indaba|N/A|Available
 [Oxford Machine Learning School - ML x Health](https://www.oxfordml.school/)|Oxford (and Virutal) |07 - 10 Aug 2022 |15 April 2022|AI for Global Goals, CIFAR, and Oxford Deep Medicine|Not announced yet|Few available
 [Oxford Machine Learning School - ML x Finance](https://www.oxfordml.school/)|Oxford (and Virutal) |11 - 14 Aug 2022 |15 April 2022|AI for Global Goals, CIFAR, and Oxford Deep Medicine|Not announced yet|Few available
 [Neuromatch Academy Deep Learning course](https://academy.neuromatch.io//)|Virtual|11 - 29 July 2022 | 18 March 2022| Neuromatch Academy |20 USD - 400 USD|Available (Unique waiver)
@@ -32,6 +33,7 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 [Deep learning: a hands-on course](https://malga.unige.it/education/schools/dl2022)|Genoa, Italy |12 - 20 July 2022 |30 April 2022| Machine Learning Geona Center, University of Genoa | 50 Euro - 100 Euro | Available for Unige students
 [Computer Vision Crash Course (CVCC 2022)](https://malga.unige.it/education/schools/cvcc2022)|Genoa, Italy |12 - 20 July 2022 |30 April 2022| Machine Learning Geona Center, University of Genoa | 50 Euro - 100 Euro | Available for Unige students
 [Leibniz AI Lab Summer School – AI For Bio-Medicine (AI4BM)](https://knure.l3s.de/summer-school-en/)|Hannover, Germany|July 2022|15 March 2022| Kharkiv National University of Radio Electronics | NA | Available only for students of Leibniz University Hannover
+[IEEE EMBS Summer School on Medical Imaging](hhttps://conferences.imt-atlantique.fr/ieeess/index.php?pid=1)|Britanny, France|19 - 25 June 2022|30 April 2022| IMT Atlantique, IEEE EMBS and others| 900 Euros | Few Available
 [Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Helsinki, Finland|13 - 17 June 2022|27 March 2022|  University of Helsinki and Finnish Center for Artificial Intelligence (FCAI)| 250 Euros for Student, 500 Euros for Academia | Available
 [AI 4 Health Winter School](https://ai4healthschool.org/)|Paris, France (Online)|10 - 14 Jan 2022 | Closed| French Health Data Hub and PRAIRIE (Paris)|50 - 150 Euros|Few available 
 
