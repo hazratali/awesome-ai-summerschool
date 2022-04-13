@@ -14,6 +14,7 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 [Law, Ethics & Policy of Artificial Intelligence](https://www.law.kuleuven.be/ai-summer-school)|Leuven, Berlin|12 - 21 Sep 2022 |15 May 2022|KU Leuven|675 Euro to 875 Euro|Few available
 [NGSchool 2022: Machine Learning in Computational Biology](https://ngschool.eu/ngschool2022/)|Jabłonna, Poland|15 - 23 Sep 2022 |Not announed yet|Researchers from Oxford and Warsaw with others|Not announced yet|Few available
 [Mediterranean Machine Learning (M2L)](https://www.m2lschool.org/)|Milan, Italy|12 - 16 Sep 2022 |02 April 2022|AI Education Foundation and DeepMind Researchers|Free for PhD/Master students. 100 Euros for others|Few available
+[2nd Inria-DFKI European Summer School on AI (IDESSAI 2022) ](https://idessai.eu/)|Saarbrücken, Germany,|29 Aug - 02 Sep 2022 |09 May 2022|DFKI Germany and Inria France|360 Euros|Few available
 [Deep Learning Indaba](https://deeplearningindaba.com/blog/2022/03/the-deep-learning-indaba-2022-in-tunis-applications-open/)|Tunis, Tunisia|21 - 26 Aug 2022 |08 April 2022|Deep Learning Indaba|N/A|Available
 [Oxford Machine Learning School - ML x Health](https://www.oxfordml.school/)|Oxford (and Virutal) |07 - 10 Aug 2022 |15 April 2022|AI for Global Goals, CIFAR, and Oxford Deep Medicine|Not announced yet|Few available
 [Oxford Machine Learning School - ML x Finance](https://www.oxfordml.school/)|Oxford (and Virutal) |11 - 14 Aug 2022 |15 April 2022|AI for Global Goals, CIFAR, and Oxford Deep Medicine|Not announced yet|Few available
