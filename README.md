@@ -18,17 +18,18 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 [Deep Learning Indaba](https://deeplearningindaba.com/blog/2022/03/the-deep-learning-indaba-2022-in-tunis-applications-open/)|Tunis, Tunisia|21 - 26 Aug 2022 |08 April 2022|Deep Learning Indaba|N/A|Available
 [Oxford Machine Learning School - ML x Health](https://www.oxfordml.school/)|Oxford (and Virutal) |07 - 10 Aug 2022 |15 April 2022|AI for Global Goals, CIFAR, and Oxford Deep Medicine|Not announced yet|Few available
 [Oxford Machine Learning School - ML x Finance](https://www.oxfordml.school/)|Oxford (and Virutal) |11 - 14 Aug 2022 |15 April 2022|AI for Global Goals, CIFAR, and Oxford Deep Medicine|Not announced yet|Few available
+[Summer School of Machine Learnig at Skoltech](https://smiles.skoltech.ru/school)|Moscow, Russia (Fully Online)|15 - 22 Aug 2022 | 01 Aug 2022| Professors from Skoltech|Free|Free
+[Climate Change AI Summer School](https://www.climatechange.ai/events/summer_school2022)|Virtual|15 - 26 Aug 2022 | 17 Dec 2021|Professors from UC Berkeley, Stanford|Free|Free
 [Neuromatch Academy Deep Learning course](https://academy.neuromatch.io//)|Virtual|11 - 29 July 2022 | 18 March 2022| Neuromatch Academy |20 USD - 400 USD|Available (Unique waiver)
 [UCL Medical Image Computing Summer School (MedICSS)](https://medicss.cs.ucl.ac.uk/)|UCL London (and Virtual)|11 - 15 July 2022 | 18 March 2022| UCL |50 - 70 GBP|N/A
 [Reinforcement Learning Summer School](http://rlsummerschool.com/)|Amsterdam, The Netherlands|11 - 15 July 2022 | Not available| University of Amsterdam |500 - 600 Euros|N/A
 [London Geometry and Machine Learning Summer School 2022 (LOGML)](https://www.logml.ai/)|London (and Virtual)|11 - 15 July 2022 | Not announced yet| Researchers from Imperial College and others |Not annonced yet |N/A
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Vilnius Lithuania (and virtual) |6 - 14 July 2022 | 16 April 2022| Google - DeepMind| Free |Not available. No fee
-[Summer School of Machine Learnig at Skoltech](https://smiles.skoltech.ru/school)|Moscow, Russia (Fully Online)|15 - 22 Aug 2022 | 01 Aug 2022| Professors from Skoltech|Free|Free
-[Climate Change AI Summer School](https://www.climatechange.ai/events/summer_school2022)|Virtual|15 - 26 Aug 2022 | 17 Dec 2021|Professors from UC Berkeley, Stanford|Free|Free
 [Data Science and AI in Health](https://www.rug.nl/research/gradschool-medical-sciences/summer-schools/data-science-and-ai/)|Groningen, The Netherlands|04 - 08 July 2022 | Not announced yet| University of Groningen|Not announced yet|Few available
 [Lisbon Machine Learning Summer School](http://lxmls.it.pt/2021/)|Lisbon (Portugal)|07 - 15 July 2022| 15 May 2022|Lisbon| 50 Euro | Free for students
 [Vision Understanding & Machine Intelligence Summer School (VISUM)](https://visum.inesctec.pt/)|Porto (Portugal)|10 - 16 July 2022|31 March 2022| INESC TEC research association | 700 Euros | Few available
 [International Computer Vision Summer School (ICVSS)](https://iplab.dmi.unict.it/icvss2022/)|Sicily (Italy) |10 - 16 July 2022|19 April 2022| Image Processing Lab, University of Catalina | 525 Euro to 960 Euro | Few available
+[Data Science Summer School](https://dshl.unileoben.ac.at/summerschool2022)|Leoben, Austria |04 - 08 July 2022|14 May 2022| Montan University, Leoben | 100 Euro | Few available
 [Machine Learning Summer School MLSS](https://mlss.mlinpl.org/)|Krakow, Poland|27 June - 02 July 2022 |Not announed yet|Misc|Not announced yet|Few available
 [Machine Learning Crash Course (MLCC 2022)](https://malga.unige.it/education/schools/mlcc2022)|Genoa, Italy |27 June - 1 July 2022 |15 April 2022| Machine Learning Geona Center, University of Genoa | 50 Euro - 100 Euro | Available for Unige students
 [Deep learning: a hands-on course](https://malga.unige.it/education/schools/dl2022)|Genoa, Italy |12 - 20 July 2022 |30 April 2022| Machine Learning Geona Center, University of Genoa | 50 Euro - 100 Euro | Available for Unige students
