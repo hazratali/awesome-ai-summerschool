@@ -23,6 +23,7 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 [Neuromatch Academy Deep Learning course](https://academy.neuromatch.io//)|Virtual|11 - 29 July 2022 | 18 March 2022| Neuromatch Academy |20 USD - 400 USD|Available (Unique waiver)
 [UCL Medical Image Computing Summer School (MedICSS)](https://medicss.cs.ucl.ac.uk/)|UCL London (and Virtual)|11 - 15 July 2022 | 18 March 2022| UCL |50 - 70 GBP|N/A
 [Reinforcement Learning Summer School](http://rlsummerschool.com/)|Amsterdam, The Netherlands|11 - 15 July 2022 | Not available| University of Amsterdam |500 - 600 Euros|N/A
+[Cambridge Machine Learning School](http://www.ellis.eng.cam.ac.uk/summerschool/)|Cambridge, United Kingdom|11 - 15 July 2022 | 22 May 2022| Computer Laboratory, University of Cambridge |Free |N/A
 [London Geometry and Machine Learning Summer School 2022 (LOGML)](https://www.logml.ai/)|London (and Virtual)|11 - 15 July 2022 | Not announced yet| Researchers from Imperial College and others |Not annonced yet |N/A
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Vilnius Lithuania (and virtual) |6 - 14 July 2022 | 16 April 2022| Google - DeepMind| Free |Not available. No fee
 [Data Science and AI in Health](https://www.rug.nl/research/gradschool-medical-sciences/summer-schools/data-science-and-ai/)|Groningen, The Netherlands|04 - 08 July 2022 | Not announced yet| University of Groningen|Not announced yet|Few available
