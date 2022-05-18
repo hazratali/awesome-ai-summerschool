@@ -39,6 +39,7 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 [Leibniz AI Lab Summer School - AI For Bio-Medicine (AI4BM)](https://knure.l3s.de/summer-school-en/)|Hannover, Germany|July 2022|15 March 2022| Kharkiv National University of Radio Electronics | NA | Available only for students of Leibniz University Hannover
 [IEEE EMBS Summer School on Medical Imaging](hhttps://conferences.imt-atlantique.fr/ieeess/index.php?pid=1)|Britanny, France|19 - 25 June 2022|30 April 2022| IMT Atlantique, IEEE EMBS and others| 900 Euros | Few Available
 [Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Helsinki, Finland|13 - 17 June 2022|27 March 2022|  University of Helsinki and Finnish Center for Artificial Intelligence (FCAI)| 250 Euros for Student, 500 Euros for Academia | Available
+[CIS Edge AI Summer School ](https://www.epfl.ch/research/domains/cis/center-for-intelligent-systems-cis/events/cis-edge-ai-summer-school/)|EPFL, Lausanne, Switzerland|13 - 15 June 2022|Open| Center for Intelligent Systems, EPFL| Free | N/A
 [AI 4 Health Winter School](https://ai4healthschool.org/)|Paris, France (Online)|10 - 14 Jan 2022 | Closed| French Health Data Hub and PRAIRIE (Paris)|50 - 150 Euros|Few available 
 
 
