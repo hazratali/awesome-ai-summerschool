@@ -8,7 +8,7 @@
   - [Frequency Asked Questions](#faqs)
 ​
 ## Summer Schools in 2022
-Name | Venue | Date | Deadline | Organizers | Fee | Scholarship :droplet:
+Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
 [Law, Ethics & Policy of Artificial Intelligence](https://www.law.kuleuven.be/ai-summer-school)|Leuven, Berlin|12 - 21 Sep 2022 |15 May 2022|KU Leuven|675 Euro to 875 Euro|Few available
 [NGSchool 2022: Machine Learning in Computational Biology](https://ngschool.eu/ngschool2022/)|Jabłonna, Poland|15 - 23 Sep 2022 |Not announed yet|Researchers from Oxford and Warsaw with others|Not announced yet|Few available 
