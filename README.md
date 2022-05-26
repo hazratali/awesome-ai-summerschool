@@ -8,10 +8,10 @@
   - [Frequency Asked Questions](#faqs)
 ​
 ## Summer Schools in 2022
-Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
+Name | Venue | Date | Deadline | Organizers | Fee | Scholarship :droplet:
 ------|--|---|---|--|-|-|
 [Law, Ethics & Policy of Artificial Intelligence](https://www.law.kuleuven.be/ai-summer-school)|Leuven, Berlin|12 - 21 Sep 2022 |15 May 2022|KU Leuven|675 Euro to 875 Euro|Few available
-[NGSchool 2022: Machine Learning in Computational Biology](https://ngschool.eu/ngschool2022/)|Jabłonna, Poland|15 - 23 Sep 2022 |Not announed yet|Researchers from Oxford and Warsaw with others|Not announced yet|Few available
+[NGSchool 2022: Machine Learning in Computational Biology](https://ngschool.eu/ngschool2022/)|Jabłonna, Poland|15 - 23 Sep 2022 |Not announed yet|Researchers from Oxford and Warsaw with others|Not announced yet|Few available 
 [Mediterranean Machine Learning (M2L)](https://www.m2lschool.org/)|Milan, Italy|12 - 16 Sep 2022 |02 April 2022|AI Education Foundation and DeepMind Researchers|Free for PhD/Master students. 100 Euros for others|Few available
 [Becoming an Olympian in Sports Analytics (Machine Learning to sports)](https://www.uantwerpen.be/en/summer-winter-schools/bosa/)|Antwerp, Belgium |05 - 09 Sep 2022 |15 June 2022|Antwerp Summer and Winter University|250 Euros|Available for students
 [2nd Inria-DFKI European Summer School on AI (IDESSAI 2022) ](https://idessai.eu/)|Saarbrücken, Germany,|29 Aug - 02 Sep 2022 |09 May 2022|DFKI Germany and Inria France|360 Euros|Few available
