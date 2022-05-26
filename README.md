@@ -1,5 +1,5 @@
 # Summer Schools in Artificial Intelligence 
-> Various summer schools / winter schools in the field of <span style="color: #CCCCFF;">artificial intelligence, machine learning, medical imaging and healthcare</span>
+> Various summer schools / winter schools in the field of <span style="color: #CCCCFF;font-weight:bold">artificial intelligence, machine learning, medical imaging and healthcare</span>
 
 ## Table of Contents
 
