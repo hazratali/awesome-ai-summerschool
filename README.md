@@ -7,7 +7,6 @@
   - [Summer Schools in 2022](#Summer-Schools-in-2022)
   - [Frequency Asked Questions](#faqs)
 ​
-
 ## Summer Schools in 2022
 Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 ------|--|---|---|--|-|-|
@@ -38,7 +37,7 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 [Deep learning: a hands-on course](https://malga.unige.it/education/schools/dl2022)|Genoa, Italy |12 - 20 July 2022 |30 April 2022| Machine Learning Geona Center, University of Genoa | 50 Euro - 100 Euro | Available for Unige students
 [Computer Vision Crash Course (CVCC 2022)](https://malga.unige.it/education/schools/cvcc2022)|Genoa, Italy |12 - 20 July 2022 |30 April 2022| Machine Learning Geona Center, University of Genoa | 50 Euro - 100 Euro | Available for Unige students
 [Leibniz AI Lab Summer School - AI For Bio-Medicine (AI4BM)](https://knure.l3s.de/summer-school-en/)|Hannover, Germany|July 2022|15 March 2022| Kharkiv National University of Radio Electronics | NA | Available only for students of Leibniz University Hannover
-[IEEE EMBS Summer School on Medical Imaging](hhttps://conferences.imt-atlantique.fr/ieeess/index.php?pid=1)|Britanny, France|19 - 25 June 2022|30 April 2022| IMT Atlantique, IEEE EMBS and others| 900 Euros | Few Available
+[IEEE EMBS Summer School on Medical Imaging](https://conferences.imt-atlantique.fr/ieeess/index.php?pid=1)|Britanny, France|19 - 25 June 2022|30 April 2022| IMT Atlantique, IEEE EMBS and others| 900 Euros | Few Available
 [Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Helsinki, Finland|13 - 17 June 2022|27 March 2022|  University of Helsinki and Finnish Center for Artificial Intelligence (FCAI)| 250 Euros for Student, 500 Euros for Academia | Available
 [CIS Edge AI Summer School ](https://www.epfl.ch/research/domains/cis/center-for-intelligent-systems-cis/events/cis-edge-ai-summer-school/)|EPFL, Lausanne, Switzerland|13 - 15 June 2022|Open| Center for Intelligent Systems, EPFL| Free | N/A
 [Duke Machine Learning Summer School ](https://aihealth.duke.edu/mlss2022/)|North Carolina (and virtual)|06 - 10 June 2022|Open| Duke University| 140 USD for students, 400 USD for non-students | Few available
