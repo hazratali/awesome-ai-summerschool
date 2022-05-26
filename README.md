@@ -14,6 +14,7 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 [Law, Ethics & Policy of Artificial Intelligence](https://www.law.kuleuven.be/ai-summer-school)|Leuven, Berlin|12 - 21 Sep 2022 |15 May 2022|KU Leuven|675 Euro to 875 Euro|Few available
 [NGSchool 2022: Machine Learning in Computational Biology](https://ngschool.eu/ngschool2022/)|Jabłonna, Poland|15 - 23 Sep 2022 |Not announed yet|Researchers from Oxford and Warsaw with others|Not announced yet|Few available
 [Mediterranean Machine Learning (M2L)](https://www.m2lschool.org/)|Milan, Italy|12 - 16 Sep 2022 |02 April 2022|AI Education Foundation and DeepMind Researchers|Free for PhD/Master students. 100 Euros for others|Few available
+[Becoming an Olympian in Sports Analytics (Machine Learning to sports)](https://www.uantwerpen.be/en/summer-winter-schools/bosa/)|Antwerp, Belgium |05 - 09 Sep 2022 |15 June 2022|Antwerp Summer and Winter University|250 Euros|Available for students
 [2nd Inria-DFKI European Summer School on AI (IDESSAI 2022) ](https://idessai.eu/)|Saarbrücken, Germany,|29 Aug - 02 Sep 2022 |09 May 2022|DFKI Germany and Inria France|360 Euros|Few available
 [Deep Learning Indaba](https://deeplearningindaba.com/blog/2022/03/the-deep-learning-indaba-2022-in-tunis-applications-open/)|Tunis, Tunisia|21 - 26 Aug 2022 |08 April 2022|Deep Learning Indaba|N/A|Available
 [Oxford Machine Learning School - ML x Health](https://www.oxfordml.school/)|Oxford (and Virutal) |07 - 10 Aug 2022 |15 April 2022|AI for Global Goals, CIFAR, and Oxford Deep Medicine|Not announced yet|Few available
@@ -40,7 +41,7 @@ Name | Venue | Date | Deadline | Organizers | Fee | Scholarship
 [IEEE EMBS Summer School on Medical Imaging](hhttps://conferences.imt-atlantique.fr/ieeess/index.php?pid=1)|Britanny, France|19 - 25 June 2022|30 April 2022| IMT Atlantique, IEEE EMBS and others| 900 Euros | Few Available
 [Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Helsinki, Finland|13 - 17 June 2022|27 March 2022|  University of Helsinki and Finnish Center for Artificial Intelligence (FCAI)| 250 Euros for Student, 500 Euros for Academia | Available
 [CIS Edge AI Summer School ](https://www.epfl.ch/research/domains/cis/center-for-intelligent-systems-cis/events/cis-edge-ai-summer-school/)|EPFL, Lausanne, Switzerland|13 - 15 June 2022|Open| Center for Intelligent Systems, EPFL| Free | N/A
-[Duke Machine Learning Summer School ](https://aihealth.duke.edu/mlss2022/)|North Carolina (and virtual)|06 - 10 June 2022|Open| Center for Intelligent Systems, EPFL| 140 USD for students, 400 USD for non-students | Few available
+[Duke Machine Learning Summer School ](https://aihealth.duke.edu/mlss2022/)|North Carolina (and virtual)|06 - 10 June 2022|Open| Duke University| 140 USD for students, 400 USD for non-students | Few available
 [AI 4 Health Winter School](https://ai4healthschool.org/)|Paris, France (Online)|10 - 14 Jan 2022 | Closed| French Health Data Hub and PRAIRIE (Paris)|50 - 150 Euros|Few available 
 
 
