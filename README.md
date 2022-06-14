@@ -1,7 +1,3 @@
-[https://img.shields.io/github/watchers/hazratali/awesome-ai-summerschool.svg]
-[https://img.shields.io/github/followers/hazratali.svg?style=social&label=Follow&maxAge=2592000]
-(https://img.shields.io/github/forks/hazratali/awesome-ai-summerschool?style=social)
-
 # Summer Schools in Artificial Intelligence 
 > Various summer schools / winter schools in the field of <span style="color: #CCCCFF;font-weight:bold">artificial intelligence, machine learning, medical imaging and healthcare</span>
 
