@@ -1,3 +1,4 @@
+https://img.shields.io/github/watchers/{hazratali}/{awesome-ai-summerschool}.svg
 # Summer Schools in Artificial Intelligence 
 > Various summer schools / winter schools in the field of <span style="color: #CCCCFF;font-weight:bold">artificial intelligence, machine learning, medical imaging and healthcare</span>
 
@@ -27,13 +28,13 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [Cambridge Machine Learning School](http://www.ellis.eng.cam.ac.uk/summerschool/)|Cambridge, United Kingdom|11 - 15 July 2022 | 22 May 2022| Computer Laboratory, University of Cambridge |Free |N/A
 [London Geometry and Machine Learning Summer School 2022 (LOGML)](https://www.logml.ai/)|London (and Virtual)|11 - 15 July 2022 | Not announced yet| Researchers from Imperial College and others |Not annonced yet |N/A
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Vilnius Lithuania (and virtual) |6 - 14 July 2022 | 16 April 2022| Google - DeepMind| Free |Not available. No fee
-[Data Science and AI in Health](https://www.rug.nl/research/gradschool-medical-sciences/summer-schools/data-science-and-ai/)|Groningen, The Netherlands|04 - 08 July 2022 | Not announced yet| University of Groningen|Not announced yet|Few available
+[Data Science and AI in Health](https://www.rug.nl/research/gradschool-medical-sciences/summer-schools/data-science-and-ai/)|Groningen, The Netherlands (Virtual)|04 - 08 July 2022 | 22 April 2022| University of Groningen|Not announced yet|Few available
 [Lisbon Machine Learning Summer School](http://lxmls.it.pt/2021/)|Lisbon (Portugal)|07 - 15 July 2022| 15 May 2022|Lisbon| 50 Euro | Free for students
 [Vision Understanding & Machine Intelligence Summer School (VISUM)](https://visum.inesctec.pt/)|Porto (Portugal)|10 - 16 July 2022|31 March 2022| INESC TEC research association | 700 Euros | Few available
 [International Computer Vision Summer School (ICVSS)](https://iplab.dmi.unict.it/icvss2022/)|Sicily (Italy) |10 - 16 July 2022|19 April 2022| Image Processing Lab, University of Catalina | 525 Euro to 960 Euro | Few available
 [AI-DLDA 2022: International Summer School on Artificial Intelligence](https://www.aidlda.it/)|Udine, Italy|04 - 08 July 2022 | 31 May 2022| University di Udine and others |100 Euros for students|Few available 
 [Data Science Summer School](https://dshl.unileoben.ac.at/summerschool2022)|Leoben, Austria |04 - 08 July 2022|14 May 2022| Montan University, Leoben | 100 Euro | Few available
-[Machine Learning Summer School MLSS](https://mlss.mlinpl.org/)|Krakow, Poland|27 June - 02 July 2022 |Not announed yet|Misc|Not announced yet|Few available
+[Machine Learning Summer School MLSS](https://mlss.mlinpl.org/)|Krakow, Poland|27 June - 02 July 2022 |Check website|Misc|Not announced yet|Few available
 [Machine Learning Crash Course (MLCC 2022)](https://malga.unige.it/education/schools/mlcc2022)|Genoa, Italy |27 June - 1 July 2022 |15 April 2022| Machine Learning Geona Center, University of Genoa | 50 Euro - 100 Euro | Available for Unige students
 [Deep learning: a hands-on course](https://malga.unige.it/education/schools/dl2022)|Genoa, Italy |12 - 20 July 2022 |30 April 2022| Machine Learning Geona Center, University of Genoa | 50 Euro - 100 Euro | Available for Unige students
 [Computer Vision Crash Course (CVCC 2022)](https://malga.unige.it/education/schools/cvcc2022)|Genoa, Italy |12 - 20 July 2022 |30 April 2022| Machine Learning Geona Center, University of Genoa | 50 Euro - 100 Euro | Available for Unige students
