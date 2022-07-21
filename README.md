@@ -14,6 +14,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [NGSchool 2022: Machine Learning in Computational Biology](https://ngschool.eu/ngschool2022/)|Jabłonna, Poland|15 - 23 Sep 2022 |Not announed yet|Researchers from Oxford and Warsaw with others|Not announced yet|Few available 
 [Logic for the AI Spring](https://lais.lakecomoschool.org/)|Como, Italy|12 - 16 Sep 2022 |15 June 2022|Lake Como School of Advanced Studies|250 Euros|N/A
 [Mediterranean Machine Learning (M2L)](https://www.m2lschool.org/)|Milan, Italy|12 - 16 Sep 2022 |02 April 2022|AI Education Foundation and DeepMind Researchers|Free for PhD/Master students. 100 Euros for others|Few available
+[Summer School on Imaging with Medical Applications - MICCAI Endorsed](https://ssima.eu/)|Oradea, Romania|05 - 09 Sep 2022 |15 August 2022|ICI Bucharest, University Politehnica of Bucharest and others|150 to 600 Euro|Few available
 [Becoming an Olympian in Sports Analytics (Machine Learning to sports)](https://www.uantwerpen.be/en/summer-winter-schools/bosa/)|Antwerp, Belgium |05 - 09 Sep 2022 |15 June 2022|Antwerp Summer and Winter University|250 Euros|Available for students
 [2nd Inria-DFKI European Summer School on AI (IDESSAI 2022) ](https://idessai.eu/)|Saarbrücken, Germany,|29 Aug - 02 Sep 2022 |09 May 2022|DFKI Germany and Inria France|360 Euros|Few available
 [Deep Learning Indaba](https://deeplearningindaba.com/blog/2022/03/the-deep-learning-indaba-2022-in-tunis-applications-open/)|Tunis, Tunisia|21 - 26 Aug 2022 |08 April 2022|Deep Learning Indaba|N/A|Available
