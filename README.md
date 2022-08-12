@@ -10,6 +10,7 @@
 ## Summer Schools in 2022
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
+[Machine Learning Operations Summer School (MLOPSS)](https://mlopsss.cc/)|Kongens Lyngby, Denmark|17 - 22 Oct 2022 |04 Sep 2022|Technical University Denmark DTU|1000 DKK|Not available
 [Law, Ethics & Policy of Artificial Intelligence](https://www.law.kuleuven.be/ai-summer-school)|Leuven, Berlin|12 - 21 Sep 2022 |15 May 2022|KU Leuven|675 Euro to 875 Euro|Few available
 [NGSchool 2022: Machine Learning in Computational Biology](https://ngschool.eu/ngschool2022/)|Jabłonna, Poland|15 - 23 Sep 2022 |Not announed yet|Researchers from Oxford and Warsaw with others|Not announced yet|Few available 
 [Logic for the AI Spring](https://lais.lakecomoschool.org/)|Como, Italy|12 - 16 Sep 2022 |15 June 2022|Lake Como School of Advanced Studies|250 Euros|N/A
