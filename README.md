@@ -7,7 +7,16 @@
   - [Summer Schools in 2022](#Summer-Schools-in-2022)
   - [Frequency Asked Questions](#faqs)
 ​
+## Summer Schools in 2023
+
+Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
+------|--|---|---|--|-|-|
+[DeepLearn 2023 Winter 8th International School on Deep Learning](https://irdta.eu/deeplearn/2023wi/)|Bournemouth, UK|16 - 23 Jan 2023 |January 2023|Bournemouth University and IRDTA|300 - 500 Euro|Not available
+
 ## Summer Schools in 2022
+<details>
+      <summary>Click to expand for FAQs</summary>
+
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
 [Asian Machine Learning Summer School (OAMLS)](https://www.acml-conf.org/2022/cfoamls.html)|Online|08 - 16 Dec 2022 |03 Oct 2022|Researchers from DeepMind and others|20 - 50 USD|Not available
@@ -46,7 +55,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [CIS Edge AI Summer School ](https://www.epfl.ch/research/domains/cis/center-for-intelligent-systems-cis/events/cis-edge-ai-summer-school/)|EPFL, Lausanne, Switzerland|13 - 15 June 2022|Open| Center for Intelligent Systems, EPFL| Free | N/A
 [Duke Machine Learning Summer School ](https://aihealth.duke.edu/mlss2022/)|North Carolina (and virtual)|06 - 10 June 2022|Open| Duke University| 140 USD for students, 400 USD for non-students | Few available
 [AI 4 Health Winter School](https://ai4healthschool.org/)|Paris, France (Online)|10 - 14 Jan 2022 | Closed| French Health Data Hub and PRAIRIE (Paris)|50 - 150 Euros|Few available 
-
+</details>
 
 ## FAQs
 <details>
