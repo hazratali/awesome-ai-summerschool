@@ -4,6 +4,7 @@
 ## Table of Contents
 
   - [Table of Contents](#table-of-contents)
+  - [Summer Schools in 2023](#Summer-Schools-in-2023)
   - [Summer Schools in 2022](#Summer-Schools-in-2022)
   - [Frequency Asked Questions](#faqs)
 ​
