@@ -12,6 +12,8 @@
 
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
+
+[Oxford Machine Learning School (Ml x Health)](https://www.oxfordml.school/)|Oxford Mathematical Institute and Online|08 - 16 July 2023 |March 2023|Univ. of Oxford, AI for Global Goals and CIFAR|450 - 750 GBP|50% for low-middle income countries
 [DeepLearn 2023 Winter 8th International School on Deep Learning](https://irdta.eu/deeplearn/2023wi/)|Bournemouth, UK|16 - 23 Jan 2023 |January 2023|Bournemouth University and IRDTA|300 - 500 Euro|Not available
 
 ## Summer Schools in 2022
