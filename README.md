@@ -21,6 +21,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
+[IEEE Summer School on Deep Learning and Computational Intelligence: Theory and Applications](http://events.iiti.ac.in/ieee-cis-summer-school-2022/)|Online and Hybrid|12 - 16 Dec 2022 |11 Dec |IIT Indore|50 USD|Not available
 [Asian Machine Learning Summer School (OAMLS)](https://www.acml-conf.org/2022/cfoamls.html)|Online|08 - 16 Dec 2022 |03 Oct 2022|Researchers from DeepMind and others|20 - 50 USD|Not available
 [Machine Learning Operations Summer School (MLOPSS)](https://mlopsss.cc/)|Kongens Lyngby, Denmark|17 - 22 Oct 2022 |04 Sep 2022|Technical University Denmark DTU|1000 DKK|Not available
 [Law, Ethics & Policy of Artificial Intelligence](https://www.law.kuleuven.be/ai-summer-school)|Leuven, Berlin|12 - 21 Sep 2022 |15 May 2022|KU Leuven|675 Euro to 875 Euro|Few available
