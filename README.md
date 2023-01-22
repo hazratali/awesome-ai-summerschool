@@ -15,6 +15,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [Federated Machine Learning, Tallin](https://ut.ee/en/content/megadata-federated-machine-learning)|Tallin, Estonia |31 July - 11 Aug 2023 | 30 April 2023| University of Tartu, Estonia| 650n Euros |few available
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Slovakia |9 - 16 July 2023 | April 2023| Google - DeepMind| to be updated |to be updated
 [Oxford Machine Learning School (Ml x Health)](https://www.oxfordml.school/)|Oxford Mathematical Institute and Online|08 - 16 July 2023 |March 2023|Univ. of Oxford, AI for Global Goals and CIFAR|450 - 750 GBP|50% for low-middle income countries
+[Transylvanian Experimental Neuroscience Summer School (TENSS) 2023 ](https://tenss.ro/index.php)|Transylvania, Romania |1 June - 21 June 2023 | 05 March 2023| Transylvanian Institute of Neuroscience (TINS)| 2500 Euros |Available
 [DeepLearn 2023 Winter 8th International School on Deep Learning](https://irdta.eu/deeplearn/2023wi/)|Bournemouth, UK|16 - 23 Jan 2023 |January 2023|Bournemouth University and IRDTA|300 - 500 Euro|Not available
 
 ## Summer Schools in 2022
