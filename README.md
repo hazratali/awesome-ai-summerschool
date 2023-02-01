@@ -12,6 +12,7 @@
 
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
+[Mediterranean Machine Learning (M2L) summer school ](https://www.m2lschool.org/home)|Thessaloniki, Greece |28 Aug - 02 Sep 2023 | 28 Feb 2023| AI Education Foundation| 100 - 250 Euros |Free for students
 [Federated Machine Learning, Tallin](https://ut.ee/en/content/megadata-federated-machine-learning)|Tallin, Estonia |31 July - 11 Aug 2023 | 30 April 2023| University of Tartu, Estonia| 650 Euros |few available
 [7th International School on Deep Learning](https://irdta.eu/deeplearn/2023su/)|Canaria, Spain |17 July - 21 July 2023 | 23 Feb 2023| Institute for Research Development, Training and Advice – IRDTA, Brussels/London| 340 - 580 Euros |N/A
 [7th International School on Big Data](https://bigdat.irdta.eu/2023su/)|Canaria, Spain |17 July - 21 July 2023 | 9 Feb 2023| Institute for Research Development, Training and Advice - IRDTA, Brussels/London| 340 - 580 Euros |N/A
