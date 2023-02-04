@@ -18,7 +18,8 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [7th International School on Big Data](https://bigdat.irdta.eu/2023su/)|Canaria, Spain |17 July - 21 July 2023 | 9 Feb 2023| Institute for Research Development, Training and Advice - IRDTA, Brussels/London| 340 - 580 Euros |N/A
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Slovakia |9 - 16 July 2023 | April 2023| Google - DeepMind| to be updated |to be updated
 [Oxford Machine Learning School (Ml x Health)](https://www.oxfordml.school/)|Oxford Mathematical Institute and Online|08 - 16 July 2023 |March 2023|Univ. of Oxford, AI for Global Goals and CIFAR|450 - 750 GBP|50% for low-middle income countries
-[Advanced Course on Data Science & Machine Learning – ACDL 2023](https://acdl2023.icas.cc/)|Tuscany, Italy |10 - 14 June 2023 | 23 Feb 2023| Professors from University of Catania, Italy| 580 Euros |N/A
+[Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Trondheim, Norway|12 - 16 June 2023 |January 2023|Norwegian University of Science and Technology (NTNU) and Norwegian Open AI Lab|250 - 1000 Euros|Few available
+[Advanced Course on Data Science & Machine Learning – ACDL 2023](https://acdl2023.icas.cc/)|Tuscany, Italy |10 - 14 June 2023 | 01 March 2023| Professors from University of Catania, Italy| 580 Euros |N/A
 [Transylvanian Experimental Neuroscience Summer School (TENSS) 2023 ](https://tenss.ro/index.php)|Transylvania, Romania |1 June - 21 June 2023 | 05 March 2023| Transylvanian Institute of Neuroscience (TINS)| 2500 Euros |Available
 [DeepLearn 2023 Winter 8th International School on Deep Learning](https://irdta.eu/deeplearn/2023wi/)|Bournemouth, UK|16 - 23 Jan 2023 |January 2023|Bournemouth University and IRDTA|300 - 500 Euro|Not available
 
