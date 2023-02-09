@@ -18,6 +18,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [7th International School on Big Data](https://bigdat.irdta.eu/2023su/)|Canaria, Spain |17 July - 21 July 2023 | 9 Feb 2023| Institute for Research Development, Training and Advice - IRDTA, Brussels/London| 340 - 580 Euros |N/A
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Slovakia |9 - 16 July 2023 | April 2023| Google - DeepMind| to be updated |to be updated
 [Oxford Machine Learning School (Ml x Health)](https://www.oxfordml.school/)|Oxford Mathematical Institute and Online|08 - 16 July 2023 |March 2023|Univ. of Oxford, AI for Global Goals and CIFAR|450 - 750 GBP|50% for low-middle income countries
+[Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, USA|26 - 30 June 2023 |15 March |Princeton University|Free|Free for PhD students
 [Nordic Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Trondheim, Norway|12 - 16 June 2023 |January 2023|Norwegian University of Science and Technology (NTNU) and Norwegian Open AI Lab|250 - 1000 Euros|Few available
 [Advanced Course on Data Science & Machine Learning – ACDL 2023](https://acdl2023.icas.cc/)|Tuscany, Italy |10 - 14 June 2023 | 01 March 2023| Professors from University of Catania, Italy| 580 Euros |N/A
 [Deep Learning and Computer Vision (Crash Courses by MalGa)](https://malga.unige.it/education/schools/dlcv)|Genova, Italy |05 - 09 June 2023 | 23 April 2023| University of Genoa, DIBRIS department| 50 - 300 Euros |Free for UniGE students
