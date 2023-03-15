@@ -21,6 +21,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [CIFAR Deep Learning + Reinforcement Learning (DLRL) Summer School](https://dlrl.ca/)|Montréal, Canada |17 - 21 July 2023 | 31 Jan 2023|CIFAR and MILA| 600 USD |N/A
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Slovakia |9 - 16 July 2023 | April 2023| Google - DeepMind| to be updated |to be updated
 [Oxford Machine Learning School (Ml x Health)](https://www.oxfordml.school/)|Oxford Mathematical Institute and Online|08 - 16 July 2023 |March 2023|Univ. of Oxford, AI for Global Goals and CIFAR|450 - 750 GBP|50% for low-middle income countries
+[UCL Medical Image Computing Summer School (MedICSS)](https://www.ucl.ac.uk/medical-image-computing/ucl-medical-image-computing-summer-school-medicss)|London, United Kingdom |03 - 07 July 2023 | 02 April 2023|UCL Centre for Medical Image Computing (CMIC)| 200 - 250 GBP |Fee waiver for lower-income countries
 [The IEEE RAS Summer School on Multi-Robot Systems](http://mrs.felk.cvut.cz/summer-school-2023/)|Prague, Czech Republic |03 - 07 July 2023| 07 March 2023| IEEE and Czech Technical University (CTU) in Prague| 532 - 713 Euros|Not available
 [Reinforcement Learning summer school](http://rlsummerschool.com/)|Barcelona, Spain|26 June - 05 July 2023 |27 March |Universitat Pompeu Fabra |200 - 600 Euro|Reduced fee for students
 [Artificial Intelligence and Games](https://school.gameaibook.org/)|Cambridge, UK|26 June - 30 2023 |Closing in March |Microsoft Research Campus |400 - 750 GBP|Reduced fee for students
