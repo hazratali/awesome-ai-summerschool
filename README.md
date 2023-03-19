@@ -13,6 +13,7 @@
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
 [Advanced Course and Symposium on Artificial Intelligence  & Neuroscience (ACAIN)](https://acain2023.icas.cc/)|Cumbria, United Kingdom |22 Sep - 26 Sep 2023 | 31 May 2023| --| 580 GBP |N/A
+[4th Summer School on Human-Robot Interaction](https://hill.psych.uw.edu.pl/hri-summer-school/)|Chęciny, Poland |18 Sep - 23 Sep 2023 | 05 May 2023| University of Warsaw and IEEE Robotics and Automation Society| 660 Euros |Fee waiver scholarships for IEEE RAS members
 [Mediterranean Machine Learning (M2L) summer school](https://www.m2lschool.org/home)|Thessaloniki, Greece |28 Aug - 02 Sep 2023 | 28 Feb 2023| AI Education Foundation| 100 - 250 Euros |Free for students
 [Federated Machine Learning, Tallin](https://ut.ee/en/content/megadata-federated-machine-learning)|Tallin, Estonia |31 July - 11 Aug 2023 | 30 April 2023| University of Tartu, Estonia| 650 Euros |few available
 [Computational Neuroscience Academy](https://cna2023.ift.uj.edu.pl/)|Kraków, Poland|17 - 23 July 2023 | 30 April 2023| Jagiellonian University| 250 Euro |20 full scholarships
