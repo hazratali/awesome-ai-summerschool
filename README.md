@@ -34,6 +34,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [Deep Learning and Computer Vision (Crash Courses by MalGa)](https://malga.unige.it/education/schools/dlcv)|Genova, Italy |05 - 09 June 2023 | 23 April 2023| University of Genoa, DIBRIS department| 50 - 300 Euros |Free for UniGE students
 [Transylvanian Experimental Neuroscience Summer School (TENSS) 2023 ](https://tenss.ro/index.php)|Transylvania, Romania |1 June - 21 June 2023 | 05 March 2023| Transylvanian Institute of Neuroscience (TINS)| 2500 Euros |Available
 [1st AFRICAI/MICCAI Summer School on AI in Medical imaging](https://africai.org/summer-school/)|Marrakesh, Morocco |29 May - 02 June 2023 | 28 Feb 2023| AFRICAI and MICCAI| 100 - 250 Euros |Travel grants available
+[Annual Nepal AI school (ANAIS)](https://nepalschool.naamii.com.np/)|Kathmandu, Nepal |22 May - 01 June 2023 | 07 April 2023| NAAMI, Nepal| 200 - 300 USD |N/A
 [DeepLearn 2023 Winter 8th International School on Deep Learning](https://irdta.eu/deeplearn/2023wi/)|Bournemouth, UK|16 - 23 Jan 2023 |January 2023|Bournemouth University and IRDTA|300 - 500 Euro|Not available
 
 ## Summer Schools in 2022
