@@ -12,7 +12,7 @@
 
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
-[The Machine Learning Summer School in Okinawa](https://groups.oist.jp/mlss)|Okinawa, Japan |04 March - 15 March, 2024 | 30 Sep 2023| --| 350 USD for students, 700 USD for faculty |Few available
+[The Machine Learning Summer School in Okinawa](https://groups.oist.jp/mlss)|Okinawa, Japan |04 March - 15 March, 2024 | 30 Sep 2023| Okinawa Institue of Science and Technology| 350 USD for students, 700 USD for faculty |Few available
 
 ## Summer Schools in 2023
 
