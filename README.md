@@ -19,6 +19,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [Euro PhD School: Data Science Meets Combinatorial Optimisation](https://decision-analytics.github.io/PhD-School-DSO-2023/)|Bielefeld University, Germany |04 Sep - 08 Sep 2023 | 31 July 2023| Bielefeld University, Germany| 160 - 300 Euros |Available for students
 [Zortify Summer School](https://zortify.com/summer-school/)|Luxembourg |28 Aug - 01 Sep 2023 | 28 July 2023| Zortify| 330 Euros for students, 880 Euros for Industry professionals |Few available
 [Summer School on Deep Learning on Graphs](https://sites.google.com/view/tc2-dlg)|Hong Kong |31 Aug 2023 | 04 August 2023|   Technical Committee 2 of the International Association for Pattern Recognition and The Hong Kong Polytechnic University| Free |Free
+[Neuro-Symbolic AI Summer School 2023](https://neurosymbolic.github.io/nsss2023/index.html)|Virtual (an IBM event)|29 Aug - 30 Aug 2023 | N/A| IBM team| Free |Free registration
 [Mediterranean Machine Learning (M2L) summer school](https://www.m2lschool.org/home)|Thessaloniki, Greece |28 Aug - 02 Sep 2023 | 28 Feb 2023| AI Education Foundation| 100 - 250 Euros |Free for students
 [Federated Machine Learning, Tallin](https://ut.ee/en/content/megadata-federated-machine-learning)|Tallin, Estonia |31 July - 11 Aug 2023 | 30 April 2023| University of Tartu, Estonia| 650 Euros |few available
 [Computational Neuroscience Academy](https://cna2023.ift.uj.edu.pl/)|Kraków, Poland|17 - 23 July 2023 | 30 April 2023| Jagiellonian University| 250 Euro |20 full scholarships
