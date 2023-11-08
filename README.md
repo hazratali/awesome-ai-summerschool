@@ -12,9 +12,13 @@
 
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
+[Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, USA |09 August - 15 August 2024 | 01 March 2024| Princeton University| Free for students |Few travel grants available
 [The Machine Learning Summer School in Okinawa](https://groups.oist.jp/mlss)|Okinawa, Japan |04 March - 15 March, 2024 | 30 Sep 2023| Okinawa Institue of Science and Technology| 350 USD for students, 700 USD for faculty |Few available
 
+
 ## Summer Schools in 2023
+<details>
+      <summary>Click to expand for Summer Schools in 2023</summary>
 
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
@@ -51,9 +55,11 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [Annual Nepal AI school (ANAIS)](https://nepalschool.naamii.com.np/)|Kathmandu, Nepal |22 May - 01 June 2023 | 07 April 2023| NAAMI, Nepal| 200 - 300 USD |N/A
 [DeepLearn 2023 Winter 8th International School on Deep Learning](https://irdta.eu/deeplearn/2023wi/)|Bournemouth, UK|16 - 23 Jan 2023 |January 2023|Bournemouth University and IRDTA|300 - 500 Euro|Not available
 
+</details>
+
 ## Summer Schools in 2022
 <details>
-      <summary>Click to expand for FAQs</summary>
+      <summary>Click to expand for Summer Schools in 2022</summary>
 
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
