@@ -13,6 +13,7 @@
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, USA |09 August - 15 August 2024 | 01 March 2024| Princeton University| Free for students |Few travel grants available
+[Oxford Machine Learning School - MLx Health and Bio](https://www.oxfordml.school/health)|Oxford, UK |11 July - 14 July 2024 | 07 Feb 2024| AI for Global Goals| 550 GBP to 950 GBP for on-site |50% waiver for low-income countries
 [The Machine Learning Summer School in Okinawa](https://groups.oist.jp/mlss)|Okinawa, Japan |04 March - 15 March, 2024 | 30 Sep 2023| Okinawa Institue of Science and Technology| 350 USD for students, 700 USD for faculty |Few available
 
 
