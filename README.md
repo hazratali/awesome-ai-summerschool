@@ -4,7 +4,7 @@
 ## Table of Contents
 
   - [Table of Contents](#table-of-contents)
-  - [Summer Schools in 2023](#Summer-Schools-in-2024)
+  - [Summer Schools in 2024](#Summer-Schools-in-2024)
   - [Summer Schools in 2023](#Summer-Schools-in-2023)
   - [Summer Schools in 2022](#Summer-Schools-in-2022)
   - [Frequency Asked Questions](#faqs)
@@ -16,8 +16,8 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, USA |09 August - 15 August 2024 | 01 March 2024| Princeton University| Free for students |Few travel grants available
 [DeepLearn 2024 11th International School on Deep Learning](https://deeplearn.irdta.eu/2024/)|Porto, Portugal|15 July - 19 July 2024 |January 2023|University of Maia, University of Porto and IRDTA|340 - 580 Euro|Not available
 [Oxford Machine Learning School - MLx Health and Bio](https://www.oxfordml.school/health)|Oxford, UK |11 July - 14 July 2024 | 07 Feb 2024| AI for Global Goals| 550 GBP to 950 GBP for on-site |50% waiver for low-income countries
+[Transylvanian Experimental Neuroscience Summer School (TENSS) 2024](https://tenss.ro/index.php)|Pike Lake Pension, Transylvania, Romania |1 June - 20 June 2024 (Tentative) | March 2024 | Transylvanian Institute of Neuroscience (TINS)|To be announced |Available
 [The Machine Learning Summer School in Okinawa](https://groups.oist.jp/mlss)|Okinawa, Japan |04 March - 15 March, 2024 | 30 Sep 2023| Okinawa Institue of Science and Technology| 350 USD for students, 700 USD for faculty |Few available
-
 
 ## Summer Schools in 2023
 <details>
