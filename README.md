@@ -19,7 +19,8 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [Advanced Course on Data Science & Machine Learning ACDL 2024](https://acdl2024.icas.events/)|Tuscany, Italy |10 June - 14 June 2024 | 23 Feb 2024| - | 580 Euro - 630 Euros |Not available
 [Transylvanian Experimental Neuroscience Summer School (TENSS) 2024](https://tenss.ro/index.php)|Pike Lake Pension, Transylvania, Romania |1 June - 20 June 2024 (Tentative) | March 2024 | Transylvanian Institute of Neuroscience (TINS)|To be announced |Available
 [The Machine Learning Summer School in Okinawa](https://groups.oist.jp/mlss)|Okinawa, Japan |04 March - 15 March, 2024 | 30 Sep 2023| Okinawa Institue of Science and Technology| 350 USD for students, 700 USD for faculty |Few available
-[Tropical Probabilistic AI School (ProbAI)](https://tropical.probabilistic.ai/)|Rio de Janeiro, Brazil |29 Jan - 02 Feb, 2024 | 24 Nov 2023| Fundação Getulio Vargas Brazil and NTNU Norway| 170 Euro for student, 350 Euro for faculty |Few available
+[Winter School on Generative AI](https://midas.centrale-casablanca.net/winter-school-2024-generative-ai/index.html)|Morocco |26 Feb - 01 March 2024 | 24 Nov 2024| EMINES, UM6P and Ecole Centrale Casablanca| 500 MAD for students, 1000 MAD for faculty, approx. 50 USD to 100 USD.| Not available
+[Tropical Probabilistic AI School (ProbAI)](https://tropical.probabilistic.ai/)|Rio de Janeiro, Brazil |29 Jan - 02 Feb, 2024 | 24 Nov 2024| Fundação Getulio Vargas Brazil and NTNU Norway| 170 Euro for student, 350 Euro for faculty |Few available
 
 ## Summer Schools in 2023
 <details>
