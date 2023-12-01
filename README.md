@@ -13,6 +13,7 @@
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, USA |09 August - 15 August 2024 | 01 March 2024| Princeton University| Free for students |Few travel grants available
+[international Metaheuristics Summer School – MESS 2024](https://www.ants-lab.it/mess2024/)|Catania, Italy |15 - 18 July 2024 | 16 March 2024|  Department of Economics and Business, University of Catania| 550 Euros |Not available
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Novi Sad, Serbia |15 - 20 July, 2024 | March 2024| The Institute for Artificial Intelligence Research and Development of Serbia| To be updated |Few travel grants available
 [DeepLearn 2024 11th International School on Deep Learning](https://deeplearn.irdta.eu/2024/)|Porto, Portugal|15 July - 19 July 2024 |January 2023|University of Maia, University of Porto and IRDTA|340 - 580 Euro|Not available
 [Oxford Machine Learning School - MLx Health and Bio](https://www.oxfordml.school/health)|Oxford, UK |11 July - 14 July 2024 | 07 Feb 2024| AI for Global Goals| 550 GBP to 950 GBP for on-site |50% waiver for low-income countries
