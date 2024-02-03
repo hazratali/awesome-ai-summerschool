@@ -12,6 +12,8 @@
 ## Summer Schools in 2024
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
+[European Summer School on AI 2024](https://essai2024.di.uoa.gr/about.html)|Athens, Greece|to be announced | to be annouced| National and Kapodistrian University of Athens| to be announed |Not announced
+[Cambridge AI and Machine Learning Summer School 2024](https://ccaim.cam.ac.uk/summer-school/)|Cambridge, United Kingdom |02 Sep - 09 Sep 2024 | to be annouced| Cambridge Center for AI in Medicine| to be announed |Not announced
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, USA |09 August - 15 August 2024 | 01 March 2024| Princeton University| Free for students |Few travel grants available
 [international Metaheuristics Summer School – MESS 2024](https://www.ants-lab.it/mess2024/)|Catania, Italy |15 - 18 July 2024 | 16 March 2024|  Department of Economics and Business, University of Catania| 550 Euros |Not available
 [Eastern European Machine Learning Summer School](https://www.eeml.eu/home)|Novi Sad, Serbia |15 - 20 July, 2024 | March 2024| The Institute for Artificial Intelligence Research and Development of Serbia| To be updated |Few travel grants available
