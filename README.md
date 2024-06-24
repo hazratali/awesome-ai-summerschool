@@ -12,6 +12,7 @@
 ## Summer Schools in 2024
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
+[Summer School on Artificial Intelligence in Health and Life Sciences 2024](https://sites.google.com/view/summer-school-aihls/home)| Rome, Italy | Sep 9-13 | Sep 8 | Università Campus Bio-Medico di Roma| 600€ | 10 full Scholarships
 [IEEE-EURASIP S3P2024](https://www.grip.unina.it/s3p2024/)	|Capri, Italy	| Sep 23-27 | Apr 20 | University Federico II of Napoli |			€ 675 |
 [European Summer School on AI 2024](https://essai2024.di.uoa.gr/about.html)|Athens, Greece|to be announced | to be annouced| National and Kapodistrian University of Athens| to be announed |Not announced
 [Cambridge AI and Machine Learning Summer School 2024](https://ccaim.cam.ac.uk/summer-school/)|Cambridge, United Kingdom |02 Sep - 09 Sep 2024 | to be annouced| Cambridge Center for AI in Medicine| to be announed |Not announced
