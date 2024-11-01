@@ -5,11 +5,19 @@
 
   - [Table of Contents](#table-of-contents)
   - [Summer Schools in 2024](#Summer-Schools-in-2024)
+  - [Summer Schools in 2024](#Summer-Schools-in-2024)
   - [Summer Schools in 2023](#Summer-Schools-in-2023)
   - [Summer Schools in 2022](#Summer-Schools-in-2022)
   - [Frequency Asked Questions](#faqs)
 ​
+## Summer Schools in 2025
+Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
+------|--|---|---|--|-|-|
+[Annual Nepal AI School (ANAIS)](https://nepalschool.naamii.com.np/home) | Kathmandu, Nepal | 27 December 2024 - 6 January 2025 | 25 November 2024 | NAAMI, Nepal | 100 USD and up | N/A
+
 ## Summer Schools in 2024
+<details>
+      <summary>Click to expand for Summer Schools in 2023</summary>
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
 [IEEE-EURASIP S3P2024](https://www.grip.unina.it/s3p2024/)	|Capri, Italy	| Sep 23-27 | Apr 20 | University Federico II of Napoli |			€ 675 |
@@ -36,6 +44,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [The Machine Learning Summer School in Okinawa](https://groups.oist.jp/mlss)|Okinawa, Japan |04 March - 15 March, 2024 | 30 Sep 2023| Okinawa Institue of Science and Technology| 350 USD for students, 700 USD for faculty |Few available
 [Winter School on Generative AI](https://midas.centrale-casablanca.net/winter-school-2024-generative-ai/index.html)|Morocco |26 Feb - 01 March 2024 | 24 Nov 2024| EMINES, UM6P and Ecole Centrale Casablanca| 500 MAD for students, 1000 MAD for faculty, approx. 50 USD to 100 USD.| Not available
 [Tropical Probabilistic AI School (ProbAI)](https://tropical.probabilistic.ai/)|Rio de Janeiro, Brazil |29 Jan - 02 Feb, 2024 | 24 Nov 2024| Fundação Getulio Vargas Brazil and NTNU Norway| 170 Euro for student, 350 Euro for faculty |Few available
+</details>
 
 ## Summer Schools in 2023
 <details>
