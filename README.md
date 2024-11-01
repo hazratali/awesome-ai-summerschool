@@ -17,7 +17,8 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 
 ## Summer Schools in 2024
 <details>
-      <summary>Click to expand for Summer Schools in 2023</summary>
+      <summary>Click to expand for Summer Schools in 2024</summary>
+      
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
 [IEEE-EURASIP S3P2024](https://www.grip.unina.it/s3p2024/)	|Capri, Italy	| Sep 23-27 | Apr 20 | University Federico II of Napoli |			€ 675 |
