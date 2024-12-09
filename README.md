@@ -15,6 +15,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 ------|--|---|---|--|-|-|
 [INVICTA Spring School 2025](https://invicta.inesctec.pt/) | Porto, Portugal | 18 - 22 March 2025 | 9 February 2025 | INESC TEC, Porto, Portugal | 500 Euro and up | N/A
 [Responsible ML Winter School Umeå](https://mlwinterschoolumea.github.io/) | Umea, Sweden | 11 - 13 March 2025 | 20 February 2025 | Umeå University, Sweden | 150+ Euros | N/A
+[Winter School on Next Generation AI and Economic Applications](https://next-genai-xemines.com/index.html) | Ben Guerir, Morocco | 24 - 25 February 2025 | 20 February 2025 | EMINES - School of Industrial Management, UM6P | N/A | 300 MAD for students
 [Annual Nepal AI School (ANAIS)](https://nepalschool.naamii.com.np/home) | Kathmandu, Nepal | 27 December 2024 - 6 January 2025 | 25 November 2024 | NAAMI, Nepal | 100 USD and up | N/A
 
 ## Summer Schools in 2024
