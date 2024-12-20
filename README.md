@@ -15,6 +15,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 ------|--|---|---|--|-|-|
 [Summer School on Advances in Artificial Intelligence](https://sites.google.com/unimib.it/advancesinai-2024/home?authuser=0) | Como, Italy | TBA | TBA | Italian Association for Artificial Intelligence | TBA | TBA
 [Oxford Machine Learning Summer School - MLx HEALTH & BIO](https://www.oxfordml.school/) | Oxford, United Kingdom | 2 - 5 August 2025 | TBA | Uni of Oxford's Mathematical Institute and AI for Global Goals | 250 GBP for online, 600 GBP for in-person | 50% waiver for low-income countries
+[Summer School on AI and Games](https://school.gameaibook.org/) | Malmo, Sweden | 23 - 27 June 2025| TBA | MODL.ai | TBA | TBA
 [Oxford Machine Learning Summer School - Generative AI](https://www.oxfordml.school/) | London, United Kingdom | 5 - 7 June 2025 | TBA | LSE and AI for Global Goals | 250 GBP for online, 600 GBP for in-person | 50% waiver for low-income countries
 [INVICTA Spring School 2025](https://invicta.inesctec.pt/) | Porto, Portugal | 18 - 22 March 2025 | 9 February 2025 | INESC TEC, Porto, Portugal | 500 Euro and up | N/A
 [Responsible ML Winter School Umeå](https://mlwinterschoolumea.github.io/) | Umea, Sweden | 11 - 13 March 2025 | 20 February 2025 | Umeå University, Sweden | 150+ Euros | N/A
@@ -27,8 +28,8 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
       
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
-[IEEE-EURASIP S3P2024](https://www.grip.unina.it/s3p2024/)	|Capri, Italy	| Sep 23-27 | Apr 20 | University Federico II of Napoli |			€ 675 |
-[European Summer School on AI 2024](https://essai2024.di.uoa.gr/about.html)|Athens, Greece|to be announced | to be annouced| National and Kapodistrian University of Athens| to be announed |Not announced
+[IEEE-EURASIP S3P2024](https://www.grip.unina.it/s3p2024/)	|Capri, Italy	| Sep 23-27 | Apr 20 | University Federico II of Napoli |	€ 675 |
+[European Summer School on AI 2024](https://essai2024.di.uoa.gr/about.html)|Athens, Greece|15 - 22 July 2024| to be annouced| National and Kapodistrian University of Athens| to be announed |Not announced
 [Cambridge AI and Machine Learning Summer School 2024](https://ccaim.cam.ac.uk/summer-school/)|Cambridge, United Kingdom |02 Sep - 09 Sep 2024 | to be annouced| Cambridge Center for AI in Medicine| to be announed |Not announced
 [European Agent Systems Summer School](https://euramas.github.io/easss2024/#)|Dublin, Ireland |19 August - 23 August 2024 | 15 June (early) and 15 July (late) 2024| University College Dublin| Not announced |Not announced
 [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)|Princeton, USA |09 August - 15 August 2024 | 01 March 2024| Princeton University| Free for students |Few travel grants available
