@@ -13,6 +13,9 @@
 ## Summer Schools in 2025
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
+[Summer School on Advances in Artificial Intelligence](https://sites.google.com/unimib.it/advancesinai-2024/home?authuser=0) | Como, Italy | TBA | TBA | Italian Association for Artificial Intelligence | TBA | TBA
+[Oxford Machine Learning Summer School - MLx HEALTH & BIO](https://www.oxfordml.school/) | Oxford, United Kingdom | 2 - 5 August 2025 | TBA | Uni of Oxford's Mathematical Institute and AI for Global Goals | 250 GBP for online, 600 GBP for in-person | 50% waiver for low-income countries
+[Oxford Machine Learning Summer School - Generative AI](https://www.oxfordml.school/) | London, United Kingdom | 5 - 7 June 2025 | TBA | LSE and AI for Global Goals | 250 GBP for online, 600 GBP for in-person | 50% waiver for low-income countries
 [INVICTA Spring School 2025](https://invicta.inesctec.pt/) | Porto, Portugal | 18 - 22 March 2025 | 9 February 2025 | INESC TEC, Porto, Portugal | 500 Euro and up | N/A
 [Responsible ML Winter School Umeå](https://mlwinterschoolumea.github.io/) | Umea, Sweden | 11 - 13 March 2025 | 20 February 2025 | Umeå University, Sweden | 150+ Euros | N/A
 [Winter School on Next Generation AI and Economic Applications](https://next-genai-xemines.com/index.html) | Ben Guerir, Morocco | 24 - 25 February 2025 | 20 February 2025 | EMINES - School of Industrial Management, UM6P | N/A | 300 MAD for students
