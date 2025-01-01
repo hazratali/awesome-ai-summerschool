@@ -15,6 +15,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 ------|--|---|---|--|-|-|
 [Summer School on Advances in Artificial Intelligence](https://sites.google.com/unimib.it/advancesinai-2024/home?authuser=0) | Como, Italy | TBA | TBA | Italian Association for Artificial Intelligence | TBA | TBA
 [Oxford Machine Learning Summer School - MLx HEALTH & BIO](https://www.oxfordml.school/) | Oxford, United Kingdom | 2 - 5 August 2025 | TBA | Uni of Oxford's Mathematical Institute and AI for Global Goals | 250 GBP for online, 600 GBP for in-person | 50% waiver for low-income countries
+[BAI Summer School on AI Agents and Agentic Systems](https://www.baisummerschool.com) | Basque Coast campus, Anglet, France | July 3-12, 2025 | Feb 28, 2025 | Business Analytics Institute, ZHAW School of Management and Law | 1545 Euros | N/A |
 [Summer School on AI and Games](https://school.gameaibook.org/) | Malmo, Sweden | 23 - 27 June 2025| TBA | MODL.ai | TBA | TBA
 [Oxford Machine Learning Summer School - Generative AI](https://www.oxfordml.school/) | London, United Kingdom | 5 - 7 June 2025 | TBA | LSE and AI for Global Goals | 250 GBP for online, 600 GBP for in-person | 50% waiver for low-income countries
 [INVICTA Spring School 2025](https://invicta.inesctec.pt/) | Porto, Portugal | 18 - 22 March 2025 | 9 February 2025 | INESC TEC, Porto, Portugal | 500 Euro and up | N/A
