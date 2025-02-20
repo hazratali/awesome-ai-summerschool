@@ -3,16 +3,18 @@
 
 ## Table of Contents
 
+- [Summer Schools in Artificial Intelligence](#summer-schools-in-artificial-intelligence)
   - [Table of Contents](#table-of-contents)
-  - [Summer Schools in 2024](#Summer-Schools-in-2024)
-  - [Summer Schools in 2024](#Summer-Schools-in-2024)
-  - [Summer Schools in 2023](#Summer-Schools-in-2023)
-  - [Summer Schools in 2022](#Summer-Schools-in-2022)
-  - [Frequency Asked Questions](#faqs)
-​
+  - [Summer Schools in 2025](#summer-schools-in-2025)
+  - [Summer Schools in 2024](#summer-schools-in-2024)
+  - [Summer Schools in 2023](#summer-schools-in-2023)
+  - [Summer Schools in 2022](#summer-schools-in-2022)
+  - [FAQs](#faqs)
+  - [Credits](#credits)
 ## Summer Schools in 2025
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
+[Equitech Futures Institute Oxford](https://www.equitechfutures.com/equitech-futures-institute-oxford) | Oxford, UK | 06 July - 03 August 2025 | 16 March 2025 (Regular), 16 Feb 2025 (Early) | Equitech Futures & Rhodes Forum on Technology and Society | 17,900 USD | 5000 USD scholarship for early applicants
 [Mediterranean Machine Learning Summer School](https://www.m2lschool.org/) | Split, Croatia | 08 - 12 September 2025 | TBA | AI Education Foundation | TBA | TBA
 [Summer School on Advances in Artificial Intelligence](https://sites.google.com/unimib.it/advancesinai-2024/home?authuser=0) | Como, Italy | TBA | TBA | Italian Association for Artificial Intelligence | TBA | TBA
 [Gatsby Bridging Programme Mathematics Summer School](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-bridging-programme) | London, UK | 23 Jun - 8 Aug 2025  | 7 Feb 2025 | Gatsby Computational Neuroscience Unit, UCL | No Fee | Limited bursaries available |
