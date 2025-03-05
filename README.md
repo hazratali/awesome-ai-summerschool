@@ -14,7 +14,7 @@
 ## Summer Schools in 2025
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
-[Mediterranean Machine Learning Summer School](https://www.m2lschool.org/) | Split, Croatia | 08 - 12 September 2025 | TBA | AI Education Foundation | TBA | TBA
+[Mediterranean Machine Learning Summer School](https://www.m2lschool.org/) | Split, Croatia | 08 - 12 September 2025 | 28 March 2025 | AI Education Foundation | Free for students, 200 Euros for postdoc/faculty | Available for students
 [Summer School on Advances in Artificial Intelligence](https://sites.google.com/unimib.it/advancesinai-2024/home?authuser=0) | Como, Italy | TBA | TBA | Italian Association for Artificial Intelligence | TBA | TBA
 [Gatsby Bridging Programme Mathematics Summer School](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-bridging-programme) | London, UK | 23 Jun - 8 Aug 2025  | 7 Feb 2025 | Gatsby Computational Neuroscience Unit, UCL | No Fee | Limited bursaries available |
 [Oxford Machine Learning Summer School - MLx HEALTH & BIO](https://www.oxfordml.school/) | Oxford, United Kingdom | 2 - 5 August 2025 | TBA | Uni of Oxford's Mathematical Institute and AI for Global Goals | 250 GBP for online, 600 GBP for in-person | 50% waiver for low-income countries
@@ -29,6 +29,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [Artificial Intelligence and Machine Learning: Theory and Practice](https://www.lmh.ox.ac.uk/artificial-intelligence-and-machine-learning-theory-and-practice) | Oxford, UK | 30 June - 11 July 2025 | TBA | Lady Margaret Hall, University of Oxford Summer Programs | 1360 GBP | N/A
 [Theoretical Foundations of Machine Learning](https://malga.unige.it/education/schools/tfml/) | Genoa, Italy | 23 - 27 June 2025 | 30 March 2025 | MalGa Center, University of Genoa | 50 Euros for students, 300 Euros for professionals | Free for UniGe students
 [Summer School on AI and Games](https://school.gameaibook.org/) | Malmo, Sweden | 23 - 27 June 2025| 01 March 2025 | MODL.ai | 450 Euros for students, 800 Euros for professionals | TBA
+[International Semantic Web Research Summer School](https://2025.semanticwebschool.org/) | Bertinoro, Italy | 08 - 14 June 2025| 15 March 2025 | --- | 1100 Euros | Few available
 [Nordic Probabilistic AI School (ProbAI)](https://nordic.probabilistic.ai/)|Trondheim, Norway |16 - 20 June, 2025 | 09 March 2025| Norwegian University of Science and Technology| 250 Euros for students, 1000 Eruos for industry |10 fee wiavers available
 [Oxford Machine Learning Summer School - Generative AI](https://www.oxfordml.school/) | London, United Kingdom | 5 - 7 June 2025 | TBA | LSE and AI for Global Goals | 250 GBP for online, 600 GBP for in-person | 50% waiver for low-income countries
 [INVICTA Spring School 2025](https://invicta.inesctec.pt/) | Porto, Portugal | 18 - 22 March 2025 | 9 February 2025 | INESC TEC, Porto, Portugal | 500 Euro and up | N/A
