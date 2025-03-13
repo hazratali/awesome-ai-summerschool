@@ -14,6 +14,7 @@
 ## Summer Schools in 2025
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
+[Reasoning Web Summer School](https://2025.declarativeai.net/events/reasoning-web) | Istanbul, Turkey | 25 - 28 September 2025 | 31 May 2024 | Faculty from Free University of Bozen-Bolzano, Italy  and Meghyn Bienvenu, CNRS & University of Bordeaux, France | 240 Euros and up | N/A
 [Mediterranean Machine Learning Summer School](https://www.m2lschool.org/) | Split, Croatia | 08 - 12 September 2025 | 28 March 2025 | AI Education Foundation | Free for students, 200 Euros for postdoc/faculty | Available for students
 [Summer School on Advances in Artificial Intelligence](https://sites.google.com/unimib.it/advancesinai-2024/home?authuser=0) | Como, Italy | TBA | TBA | Italian Association for Artificial Intelligence | TBA | TBA
 [Gatsby Bridging Programme Mathematics Summer School](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-bridging-programme) | London, UK | 23 Jun - 8 Aug 2025  | 7 Feb 2025 | Gatsby Computational Neuroscience Unit, UCL | No Fee | Limited bursaries available |
