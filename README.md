@@ -33,6 +33,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [International Semantic Web Research Summer School](https://2025.semanticwebschool.org/) | Bertinoro, Italy | 08 - 14 June 2025| 15 March 2025 | --- | 1100 Euros | Few available
 [Nordic Probabilistic AI School (ProbAI)](https://nordic.probabilistic.ai/)|Trondheim, Norway |16 - 20 June, 2025 | 09 March 2025| Norwegian University of Science and Technology| 250 Euros for students, 1000 Eruos for industry |10 fee wiavers available
 [Oxford Machine Learning Summer School - Generative AI](https://www.oxfordml.school/) | London, United Kingdom | 5 - 7 June 2025 | TBA | LSE and AI for Global Goals | 250 GBP for online, 600 GBP for in-person | 50% waiver for low-income countries
+[Deep Learning for Medical Imaging - Spring School](https://deepimaging2025.sciencesconf.org/?lang=en) | Lyon, France | 21 - 25 April 2025 | 14 April 2025 | LabEx PRIMES  and INSA Lyon | 650 Euro, 150 Euro for virtual | N/A
 [INVICTA Spring School 2025](https://invicta.inesctec.pt/) | Porto, Portugal | 18 - 22 March 2025 | 9 February 2025 | INESC TEC, Porto, Portugal | 500 Euro and up | N/A
 [ELLIS Winter School on Foundation Models](https://elias-ai.eu/event/2025-fomo/) | Amsterdam, The Netherlands | 18-21 March 2025  | 26 Jan 2025 | ELLIS and Univ of Amsterdam | 350 Euro for students, 550 Euro for others | Fee waiver available
 [Responsible ML Winter School Umeå](https://mlwinterschoolumea.github.io/) | Umea, Sweden | 11 - 13 March 2025 | 20 February 2025 | Umeå University, Sweden | 150+ Euros | N/A
