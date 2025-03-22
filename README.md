@@ -14,7 +14,7 @@
 ## Summer Schools in 2025
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
-[Advanced Course and Symposium on Artificial Intelligence & Neuroscience](https://acain2025.icas.events/) | Italy, Castiglione della Pescaia (Grosseto) | September 21-24, 2025 |  August 10 2025 | University of Catania, Italy - University of Florida, USA | 580 Euros | N/A
+[Advanced Course and Symposium on Artificial Intelligence and Neuroscience](https://acain2025.icas.events/) | Italy, Castiglione della Pescaia (Grosseto) | September 21-24, 2025 |  August 10 2025 | University of Catania, Italy - University of Florida, USA | 580 Euros | N/A
 [International Artificial Intelligence Summer School](https://2025.iaiss.cc/) | Italy, Castiglione della Pescaia (Grosseto) | September 21-25, 2025 | July 23 2025 | University of Catania, Italy - University of Florida, USA | 630 Euros | N/A
 [Advanced Course on Data Science & Machine Learning](https://acdl2025.icas.events/) | Italy, Castiglione della Pescaia (Grosseto) |  June 9-13, 2025  | April 23 2025 | University of Catania, Italy - University of Florida, USA | 630 Euros | N/A
 [Reasoning Web Summer School](https://2025.declarativeai.net/events/reasoning-web) | Istanbul, Turkey | 25 - 28 September 2025 | 31 May 2024 | Faculty from Free University of Bozen-Bolzano, Italy  and Meghyn Bienvenu, CNRS & University of Bordeaux, France | 240 Euros and up | N/A
@@ -34,6 +34,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [Artificial Intelligence and Machine Learning: Theory and Practice](https://www.lmh.ox.ac.uk/artificial-intelligence-and-machine-learning-theory-and-practice) | Oxford, UK | 30 June - 11 July 2025 | TBA | Lady Margaret Hall, University of Oxford Summer Programs | 1360 GBP | N/A
 [Theoretical Foundations of Machine Learning](https://malga.unige.it/education/schools/tfml/) | Genoa, Italy | 23 - 27 June 2025 | 30 March 2025 | MalGa Center, University of Genoa | 50 Euros for students, 300 Euros for professionals | Free for UniGe students
 [Summer School on AI and Games](https://school.gameaibook.org/) | Malmo, Sweden | 23 - 27 June 2025| 01 March 2025 | MODL.ai | 450 Euros for students, 800 Euros for professionals | TBA
+[Advanced Course on Data Science and Machine Learning (ACDL)](https://acdl2025.icas.events/) | Italy, Castiglione della Pescaia (Grosseto) |  June 9-13, 2025  | April 23 2025 | University of Catania, Italy - University of Florida, USA | 630 Euros | N/A
 [International Semantic Web Research Summer School](https://2025.semanticwebschool.org/) | Bertinoro, Italy | 08 - 14 June 2025| 15 March 2025 | --- | 1100 Euros | Few available
 [Nordic Probabilistic AI School (ProbAI)](https://nordic.probabilistic.ai/)|Trondheim, Norway |16 - 20 June, 2025 | 09 March 2025| Norwegian University of Science and Technology| 250 Euros for students, 1000 Eruos for industry |10 fee wiavers available
 [Oxford Machine Learning Summer School - Generative AI](https://www.oxfordml.school/) | London, United Kingdom | 5 - 7 June 2025 | TBA | LSE and AI for Global Goals | 250 GBP for online, 600 GBP for in-person | 50% waiver for low-income countries
