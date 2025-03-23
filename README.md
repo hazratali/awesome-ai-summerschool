@@ -14,12 +14,12 @@
 ## Summer Schools in 2025
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
+[Summer School on Advances in Artificial Intelligence](https://sites.google.com/unimib.it/advancesinai-2024/home?authuser=0) | Como, Italy | 23 - 27 September 2025 | TBA | Italian Association for Artificial Intelligence | 450 Euros to 490 Euros | 4 grants available
 [Advanced Course and Symposium on Artificial Intelligence and Neuroscience](https://acain2025.icas.events/) | Italy, Castiglione della Pescaia (Grosseto) | September 21-24, 2025 |  August 10 2025 | University of Catania, Italy - University of Florida, USA | 580 Euros | N/A
 [International Artificial Intelligence Summer School](https://2025.iaiss.cc/) | Italy, Castiglione della Pescaia (Grosseto) | September 21-25, 2025 | July 23 2025 | University of Catania, Italy - University of Florida, USA | 630 Euros | N/A
 [Advanced Course on Data Science & Machine Learning](https://acdl2025.icas.events/) | Italy, Castiglione della Pescaia (Grosseto) |  June 9-13, 2025  | April 23 2025 | University of Catania, Italy - University of Florida, USA | 630 Euros | N/A
 [Reasoning Web Summer School](https://2025.declarativeai.net/events/reasoning-web) | Istanbul, Turkey | 25 - 28 September 2025 | 31 May 2024 | Faculty from Free University of Bozen-Bolzano, Italy  and Meghyn Bienvenu, CNRS & University of Bordeaux, France | 240 Euros and up | N/A
 [Mediterranean Machine Learning Summer School](https://www.m2lschool.org/) | Split, Croatia | 08 - 12 September 2025 | 28 March 2025 | AI Education Foundation | Free for students, 200 Euros for postdoc/faculty | Available for students
-[Summer School on Advances in Artificial Intelligence](https://sites.google.com/unimib.it/advancesinai-2024/home?authuser=0) | Como, Italy | TBA | TBA | Italian Association for Artificial Intelligence | TBA | TBA
 [Gatsby Bridging Programme Mathematics Summer School](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-bridging-programme) | London, UK | 23 Jun - 8 Aug 2025  | 7 Feb 2025 | Gatsby Computational Neuroscience Unit, UCL | No Fee | Limited bursaries available |
 [Oxford Machine Learning Summer School - MLx HEALTH & BIO](https://www.oxfordml.school/) | Oxford, United Kingdom | 2 - 5 August 2025 | TBA | Uni of Oxford's Mathematical Institute and AI for Global Goals | 250 GBP for online, 600 GBP for in-person | 50% waiver for low-income countries
 [Advanced Artificial Intelligence and Machine Learning: Computer Vision](https://www.lmh.ox.ac.uk/advanced-artificial-intelligence-and-machine-learning-computer-vision) | Oxford, UK |21 July - 08 August 2025 | TBA | Lady Margaret Hall, University of Oxford Summer Programs | 1360 GBP | N/A
