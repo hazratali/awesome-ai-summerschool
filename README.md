@@ -46,6 +46,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [Responsible ML Winter School Umeå](https://mlwinterschoolumea.github.io/) | Umea, Sweden | 11 - 13 March 2025 | 20 February 2025 | Umeå University, Sweden | 150+ Euros | N/A
 [IEEE SPS XAI 2025](https://cvbl.iiita.ac.in/seasonal-school/ieee-sps-xai2025/index.php)  | Prayagraj, India | 03-07 March 2025 | 31 Jan 2025| IEEE Signal Processing Society, CVBL, IIIT Allahabad | 17 USD for students, upto 88.5 USD for others|  Few available  
 [Winter School on Next Generation AI and Economic Applications](https://next-genai-xemines.com/index.html) | Ben Guerir, Morocco | 24 - 25 February 2025 | 20 February 2025 | EMINES - School of Industrial Management, UM6P | N/A | 300 MAD for students
+[2025 Middle East and North Africa Machine Learning (MenaML) Winter School](https://www.mena.ml/) | Doha, Qatar | 9-14 February, 2025 |1 November, 2024 | Qatar Computing Research Institute (QCRI) - Hamad Bin Khalifa University | 100 QAR | A limited number of scholarships is available.
 [Annual Nepal AI School (ANAIS)](https://nepalschool.naamii.com.np/home) | Kathmandu, Nepal | 27 December 2024 - 6 January 2025 | 25 November 2024 | NAAMI, Nepal | 100 USD and up | N/A
 
 ## Summer Schools in 2024
