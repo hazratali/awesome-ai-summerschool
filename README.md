@@ -14,7 +14,6 @@
 ## Summer Schools in 2025
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
-[EuADS Automated Data Science Summer School](https://www.euads.org/fjkdlasjdiglsmdgkcxjhvckh/euads-summer-school-2025/) |  Luxembourg | 8 - 11 July 2025 | N/A | European Association for Data Science | 150 Euros to 200 Euros | N/A
 [Summer School on Advances in Artificial Intelligence](https://sites.google.com/unimib.it/advancesinai-2024/home?authuser=0) | Como, Italy | 23 - 27 September 2025 | TBA | Italian Association for Artificial Intelligence | 450 Euros to 490 Euros | 4 grants available
 [Advanced Course and Symposium on Artificial Intelligence and Neuroscience](https://acain2025.icas.events/) | Italy, Castiglione della Pescaia (Grosseto) | September 21-24, 2025 |  August 10 2025 | University of Catania, Italy - University of Florida, USA | 580 Euros | N/A
 [International Artificial Intelligence Summer School](https://2025.iaiss.cc/) | Italy, Castiglione della Pescaia (Grosseto) | September 21-25, 2025 | July 23 2025 | University of Catania, Italy - University of Florida, USA | 630 Euros | N/A
@@ -31,6 +30,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [The Safe and Trusted AI Summer School](https://safeandtrustedai.org/summer-school/) | London, United Kingdom | 14 - 16 July 2025 | 30 May 2025 | UKRI Centre for Doctoral Training in Safe and Trusted AI and Imperial College London | 200 GBP | N/A 
 [Summer course in Artificial Intelligence](https://assas-international.com/summer-course-in-artificial-intelligence/) | Singapore | 07 - 15 July 2025 | 31 May 2025 | Assas International,  Paris-Panthéon-Assas University, Singapore | 1800 Euros | Available for Assas students only.
 [Cooperative AI Summer School](https://www.cooperativeai.com/summer-school/summer-school-2025) | Marlow, near London, UK | 09 - 13 July 2025 | 07 March 2025 | Cooperative AI | 250 GBP for students, 500 GBP for faculy | TBA
+[EuADS Automated Data Science Summer School](https://www.euads.org/fjkdlasjdiglsmdgkcxjhvckh/euads-summer-school-2025/) |  Luxembourg | 8 - 11 July 2025 | N/A | European Association for Data Science | 150 Euros to 200 Euros | N/A
 [MALGA Data Visualization Summer School](https://malga.unige.it/education/schools/dvss/) | Genoa, Italy | 07 - 11 July 2025 | 18 May 2025 | MalGA Machine Learning Genoa Center | 100 Euros for students and postdocs. 200 Euros for others | Free for UniGe students 
 [EDBT 2025 Summer School on AI & Data Management](https://dmai.cs.ucy.ac.cy/) | Nicosia, Cyprus | 07 - 11 July 2025 | 07 April 2025 | University of Cyprus | 600 Euros | Few grants available
 [BAI Summer School on AI Agents and Agentic Systems](https://www.baisummerschool.com) | Basque Coast campus, Anglet, France | July 3-12, 2025 | Feb 28, 2025 | Business Analytics Institute, ZHAW School of Management and Law | 1545 Euros | N/A 
