@@ -14,6 +14,7 @@
 ## Summer Schools in 2025
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-| 
+[Armenian LLM Summer School 2025](https://armllm.github.io/2025/) | Yerevan, Armenia | 24 - 30 July 2025 | 7 June 2025 | Researchers from Perceptron AI, Nvidia, USC/Amazon, YerevaNN, ServiceNow Research | 250 USD approx | Grants and Fee waivers Available
 [Summer School on Advances in Artificial Intelligence](https://sites.google.com/unimib.it/advancesinai-2024/home?authuser=0) | Como, Italy | 23 - 27 September 2025 | TBA | Italian Association for Artificial Intelligence | 450 Euros to 490 Euros | 4 grants available
 [Advanced Course and Symposium on Artificial Intelligence and Neuroscience](https://acain2025.icas.events/) | Italy, Castiglione della Pescaia (Grosseto) | September 21-24, 2025 |  August 10 2025 | University of Catania, Italy - University of Florida, USA | 580 Euros | N/A
 [International Artificial Intelligence Summer School](https://2025.iaiss.cc/) | Italy, Castiglione della Pescaia (Grosseto) | September 21-25, 2025 | July 23 2025 | University of Catania, Italy - University of Florida, USA | 630 Euros | N/A
