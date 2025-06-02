@@ -14,7 +14,6 @@
 ## Summer Schools in 2025
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-| 
-[IEEE CIS Summer School on Artificial Intelligence for Software Engineering (AISE 2025)](https://ci4se.github.io/AISE2025/index.html) | Carthage, Tunisia | 11 - 13 June 2025 | TBA | Tunis Business School, University of Michigan-Flint | 60 Euros | Student grants available
 [Summer School on Advances in Artificial Intelligence](https://sites.google.com/unimib.it/advancesinai-2024/home?authuser=0) | Como, Italy | 23 - 27 September 2025 | TBA | Italian Association for Artificial Intelligence | 450 Euros to 490 Euros | 4 grants available
 [Advanced Course and Symposium on Artificial Intelligence and Neuroscience](https://acain2025.icas.events/) | Italy, Castiglione della Pescaia (Grosseto) | September 21-24, 2025 |  August 10 2025 | University of Catania, Italy - University of Florida, USA | 580 Euros | N/A
 [International Artificial Intelligence Summer School](https://2025.iaiss.cc/) | Italy, Castiglione della Pescaia (Grosseto) | September 21-25, 2025 | July 23 2025 | University of Catania, Italy - University of Florida, USA | 630 Euros | N/A
@@ -51,6 +50,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [Summer School on AI and Games](https://school.gameaibook.org/) | Malmo, Sweden | 23 - 27 June 2025| 01 March 2025 | MODL.ai | 450 Euros for students, 800 Euros for professionals | TBA
 [INFORMED AI Summer School](https://informed-ai.net/event/informed-ai-summer-school-2025/) | Bristol, UK | 16 - 19 June 2025 | N/A | INFORMED AI Hub and University of Bristol | 80 GBP | N/A
 [MALGA A journey through deep learning](https://malga.unige.it/education/schools/jdl/) | Genoa, Italy | 15 - 20 June 2025 | 30 March 2025 | MalGA Machine Learning Genoa Center | 50 Euros for students and postdocs. 300 Euros for others | Free for UniGe students
+[IEEE CIS Summer School on Artificial Intelligence for Software Engineering (AISE 2025)](https://ci4se.github.io/AISE2025/index.html) | Carthage, Tunisia | 11 - 13 June 2025 | TBA | Tunis Business School, University of Michigan-Flint | 60 Euros | Student grants available
 [5th School on Automated Machine Learning](https://www.automlschool.org/) | Tubingen, Germany | 10 - 13 June 2025 |18 April (for early registration) | Faculty from University of Tübingen, Leibniz University Hannover, and others | 275 Euros for students, 575 Euros for industry | N/A
 [Advanced Course on Data Science and Machine Learning (ACDL)](https://acdl2025.icas.events/) | Italy, Castiglione della Pescaia (Grosseto) |  June 9-13, 2025  | April 23 2025 | University of Catania, Italy - University of Florida, USA | 630 Euros | N/A
 [International Semantic Web Research Summer School](https://2025.semanticwebschool.org/) | Bertinoro, Italy | 08 - 14 June 2025| 15 March 2025 | --- | 1100 Euros | Few available
