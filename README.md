@@ -5,12 +5,18 @@
 
 - [Summer Schools in Artificial Intelligence](#summer-schools-in-artificial-intelligence)
   - [Table of Contents](#table-of-contents)
+  - [Summer Schools in 2026](#summer-schools-in-2026)
   - [Summer Schools in 2025](#summer-schools-in-2025)
   - [Summer Schools in 2024](#summer-schools-in-2024)
   - [Summer Schools in 2023](#summer-schools-in-2023)
   - [Summer Schools in 2022](#summer-schools-in-2022)
   - [FAQs](#faqs)
   - [Credits](#credits)
+## Summer Schools in 2026
+Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
+------|--|---|---|--|-|-| 
+[Machine Learning Summer School (MLSS) Melbourne](https://www.mlss-melbourne.com/) | Melbourne, Australia | 2 - 13 February 2026 | 31 August 2025 | Maincode, Australia | 500 AUD | Limited number available
+
 ## Summer Schools in 2025
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-| 
