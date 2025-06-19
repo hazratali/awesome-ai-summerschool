@@ -20,7 +20,6 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 ## Summer Schools in 2025
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-| 
-[CISPA - ELLIS - Summer School on Trustworthy AI](https://cispa.de/summer-school-2025) | Saarbruecken, Germany | 04 - 08 August 2025 | 30 June 2025 | CISPA- Helmholtz Center for Information Security, ELLIS, and ELSA | 200 Euros | Travel grants available
 [Cohere Labs Community Summer School](https://sites.google.com/cohere.com/coherelabs-community/community-programs/summer-school) | Online | 2nd July - 14th July 2025 | 30 June 2025 | Cohere Labs Community | Free | -
 [Summer School on Advances in Artificial Intelligence](https://sites.google.com/unimib.it/advancesinai-2024/home?authuser=0) | Como, Italy | 23 - 27 September 2025 | TBA | Italian Association for Artificial Intelligence | 450 Euros to 490 Euros | 4 grants available
 [Advanced Course and Symposium on Artificial Intelligence and Neuroscience](https://acain2025.icas.events/) | Italy, Castiglione della Pescaia (Grosseto) | September 21-24, 2025 |  August 10 2025 | University of Catania, Italy - University of Florida, USA | 580 Euros | N/A
@@ -33,6 +32,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [ELLIS Summer School: AI for Earth and Climate Sciences](https://www.ellis-jena.eu/summer-school-2025/)| Jena, Germany | 01 - 05 September 2025 | Second round opening 1 May 2025 | ELLIS and University of Jena, Germany| 450 Euros | N/A
 [SPECIES Summer School Spain](https://species-society.org/summer-school-2025/) | Moraira, Spain | 26 - 31 August, 2025 | July 23 2025 | SPECIES Society | 350 Euros | Fee covers full accommodation
 [4th European Summer School on Quantum AI](https://eqai.eu/eqai-2025/) | Lignano Sabbiadoro, Italy | 01 - 05 September, 2025 | 19 August, 2025 | University of Udine, Italy and University of Verona, Italy | N/A | N/A
+[CISPA - ELLIS - Summer School on Trustworthy AI](https://cispa.de/summer-school-2025) | Saarbruecken, Germany | 04 - 08 August 2025 | 30 June 2025 | CISPA- Helmholtz Center for Information Security, ELLIS, and ELSA | 200 Euros | Travel grants available
 [Gatsby Bridging Programme Mathematics Summer School](https://www.ucl.ac.uk/gatsby/study-and-work/gatsby-bridging-programme) | London, UK | 23 Jun - 8 Aug 2025  | 7 Feb 2025 | Gatsby Computational Neuroscience Unit, UCL | No Fee | Limited bursaries available |
 [Oxford Machine Learning Summer School - MLx HEALTH & BIO](https://www.oxfordml.school/) | Oxford, United Kingdom | 2 - 5 August 2025 | TBA | Uni of Oxford's Mathematical Institute and AI for Global Goals | 250 GBP for online, 600 GBP for in-person | 50% waiver for low-income countries
 [Advanced Artificial Intelligence and Machine Learning: Computer Vision](https://www.lmh.ox.ac.uk/advanced-artificial-intelligence-and-machine-learning-computer-vision) | Oxford, UK |21 July - 08 August 2025 | TBA | Lady Margaret Hall, University of Oxford Summer Programs | 1360 GBP | N/A
