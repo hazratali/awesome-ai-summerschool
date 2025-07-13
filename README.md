@@ -16,6 +16,7 @@
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-| 
 [Machine Learning Summer School (MLSS) Melbourne](https://www.mlss-melbourne.com/) | Melbourne, Australia | 2 - 13 February 2026 | 31 August 2025 | Maincode, Australia | 500 AUD | Limited number available
+[Northern Lights Deep Learning Winter School](https://www.nldl.org/home) | Tromsø, Norway,  | 5 - 9 January 2026 | 31 August 2025 | The Arctic University of Norway | 1750 NOK for students, 2500 NOK for academics | Limited number available
 
 ## Summer Schools in 2025
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
