@@ -22,6 +22,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-| 
 [The Latin American LATAM School of Artificial Intelligence 2025](https://simbig.org/lasai/2025/) | Lima, Peru | 27 - 31 October 2025 | 30 September 2025 | Universidad Nacional Mayor de San Marcos (UNMSM), Lima, Peru | N/A | N/A
+[Winter School on Causality and Explainable AI](https://xai-winter-school.github.io/) | Paris, France | 20 - 24 October 2025 | 01 October 2025 | Team from Sorbonne Center for Artificial Intelligence, ELLIS - European Laboratory for Learning and Intelligent Systems, and others  | Free| Free
 [Summer School on Advances in Artificial Intelligence](https://sites.google.com/unimib.it/advancesinai-2024/home?authuser=0) | Como, Italy | 23 - 27 September 2025 | TBA | Italian Association for Artificial Intelligence | 450 Euros to 490 Euros | 4 grants available
 [Advanced Course and Symposium on Artificial Intelligence and Neuroscience](https://acain2025.icas.events/) | Italy, Castiglione della Pescaia (Grosseto) | September 21-24, 2025 |  August 10 2025 | University of Catania, Italy - University of Florida, USA | 580 Euros | N/A
 [International Artificial Intelligence Summer School](https://2025.iaiss.cc/) | Italy, Castiglione della Pescaia (Grosseto) | September 21-25, 2025 | July 23 2025 | University of Catania, Italy - University of Florida, USA | 630 Euros | N/A
