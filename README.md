@@ -16,6 +16,7 @@
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-| 
 [European Summer School on Artificial Intelligence (ESSAI 2026)](https://essai2026.eu/) | Vienna, Austria | 6 - 10 July 2026 | N/A | TU Wien, WU Wien | N/A | Limited number available
+[1st Internationa School on the Cognitive, Ethical, and Societal Dimensions of AI - AIces](https://aices.irdta.eu/2026/) | Vienna, Austria | 30 Mar - 3 Apr 2026 | Porto, Portugal| Institute for Research Development, Training and Advice – IRDTA | 340 Euros - 670 Euros | Limited number available
 [Machine Learning Summer School (MLSS) Melbourne](https://www.mlss-melbourne.com/) | Melbourne, Australia | 2 - 13 February 2026 | 31 August 2025 | Maincode, Australia | 500 AUD | Limited number available
 [Northern Lights Deep Learning Winter School](https://www.nldl.org/home) | Tromsø, Norway,  | 5 - 9 January 2026 | 31 August 2025 | The Arctic University of Norway | 1750 NOK for students, 2500 NOK for academics | Limited number available
 [Annual Nepal AI School (ANAIS)](https://anais.naamii.org.np/) | Kathmandu, Nepal | 29 December 2025 - 8 January 2026 | 16 October 2025 | NAAMII, Nepal | 100 USD - 240 USD (depends on Applicant Category) | N/A
