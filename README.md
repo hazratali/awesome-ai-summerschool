@@ -25,6 +25,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 ## Summer Schools in 2025
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-| 
+[UN Winter School on Artificial Intelligence (AI), Ethics, and Human Rights](https://unicri.org/winter-school-artificial-intelligence-ethics-human-rights-2025) | Rome, Italy and ONLINE | 15 - 19 Dec 2025 | 1 Dec 2025 | UN and LUMSA Human Academy | 1000 Euros | N/A
 [DATA ETHICS Winter School 2025](https://www.eurolifeuniversities.org/eurolife-dataethics-winter-school-2025/) | Obergurgl, Austria | 15 - 19 Dec 2025 | 20 October 2025 and open | Eurolife DATAETHICS Network | N/A | Grant available for students
 [The Latin American LATAM School of Artificial Intelligence 2025](https://simbig.org/lasai/2025/) | Lima, Peru | 27 - 31 October 2025 | 30 September 2025 | Universidad Nacional Mayor de San Marcos (UNMSM), Lima, Peru | N/A | N/A
 [Winter School on Causality and Explainable AI](https://xai-winter-school.github.io/) | Paris, France | 20 - 24 October 2025 | 01 October 2025 | Team from Sorbonne Center for Artificial Intelligence, ELLIS - European Laboratory for Learning and Intelligent Systems, and others  | Free| Free
