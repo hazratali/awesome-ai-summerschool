@@ -15,6 +15,7 @@
 ## Summer Schools in 2026
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-| 
+[The International Summer School on Generative AI](https://intelligent-systems.net/school/) | Rome, Italy | 22 - 26 June 2026 | N/A | Sapienza Università di Roma | 830 USD | N/A
 [European Summer School on Artificial Intelligence (ESSAI 2026)](https://essai2026.eu/) | Vienna, Austria | 6 - 10 July 2026 | N/A | TU Wien, WU Wien | N/A | Limited number available
 [1st Internationa School on the Cognitive, Ethical, and Societal Dimensions of AI - AIces](https://aices.irdta.eu/2026/) | Vienna, Austria | 30 Mar - 3 Apr 2026 | Porto, Portugal| Institute for Research Development, Training and Advice – IRDTA | 340 Euros - 670 Euros | Limited number available
 [Machine Learning Summer School (MLSS) Melbourne](https://www.mlss-melbourne.com/) | Melbourne, Australia | 2 - 13 February 2026 | 31 August 2025 | Maincode, Australia | 500 AUD | Limited number available
@@ -229,4 +230,5 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 - No. However, some of the enteries in the lists may overlap. The purpose is to share the opportunities with the community and aspiring AI researchers/engineers, data scientists.  
 
 </details>
+
 
