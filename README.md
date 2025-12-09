@@ -15,8 +15,10 @@
 ## Summer Schools in 2026
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-| 
+[Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Vilnius, Lithuania |3 - 7 August 2026 | To be updated| Norwegian University of Science and Technology and Artificial Intelligence Association of Lithuania| TBA for industry |N/A
+[Oxford Machine Learning Summer School - MLx HEALTH & BIO](https://www.oxfordml.school/2026) | Oxford, United Kingdom | 10 - 13 July 2026 | TBA | Uni of Oxford's Mathematical Institute and AI for Global Goals | To be announced | 50% waiver for low-income countries
 [European Summer School on Artificial Intelligence (ESSAI 2026)](https://essai2026.eu/) | Vienna, Austria | 6 - 10 July 2026 | N/A | TU Wien, WU Wien | N/A | Limited number available
-[UK Robotics Summer School](https://ukrss.site.hw.ac.uk/) | Edinburgh, UK | 22 - 26 June 2025 | 29 May 2025 | Heriot-Watt University | 400 GBP for students, 800 GBP for faculy | Limited travel support available
+[UK Robotics Summer School](https://ukrss.site.hw.ac.uk/) | Edinburgh, UK | 22 - 26 June 2026 | 29 May 2026 | Heriot-Watt University | 400 GBP for students, 800 GBP for faculy | Limited travel support available
 [International Summer School for Advanced Studies on Biometrics, Behavior, and Vision](https://biometrics.uniss.it) | Alghero, Italy | 8 - 12 June 2026 | 15 Feb 2026 | Sponsors include IAPR, IEEE, EURASIP | 1950 Euros for students, 2600 otherwise | N/A
 [1st Internationa School on the Cognitive, Ethical, and Societal Dimensions of AI - AIces](https://aices.irdta.eu/2026/) | Porto, Portugal | 30 Mar - 3 Apr 2026 | 25 November, and onwards| Institute for Research Development, Training and Advice – IRDTA | 340 Euros - 670 Euros | Limited number available
 [Winter School on Ethical, Legal, and Societal (ELS) aspects of AI and AS at Umeå University](https://mlwinterschoolumea.github.io/) | Umea, Sweden | 11 - 13 March 2025 | 10 February 2025 | Umeå University, Sweden | 150 Euros for students, 250 for faculty | N/A
