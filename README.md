@@ -29,6 +29,9 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [Annual Nepal AI School (ANAIS)](https://anais.naamii.org.np/) | Kathmandu, Nepal | 29 December 2025 - 8 January 2026 | 16 October 2025 | NAAMII, Nepal | 100 USD - 240 USD (depends on Applicant Category) | N/A
 
 ## Summer Schools in 2025
+<details>
+      <summary>Click to expand for Summer Schools in 2025</summary>
+      
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-| 
 [UN Winter School on Artificial Intelligence (AI), Ethics, and Human Rights](https://unicri.org/winter-school-artificial-intelligence-ethics-human-rights-2025) | Rome, Italy and ONLINE | 15 - 19 Dec 2025 | 1 Dec 2025 | UN and LUMSA Human Academy | 1000 Euros | N/A
@@ -93,6 +96,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [Winter School on Next Generation AI and Economic Applications](https://next-genai-xemines.com/index.html) | Ben Guerir, Morocco | 24 - 25 February 2025 | 20 February 2025 | EMINES - School of Industrial Management, UM6P | N/A | 300 MAD for students
 [2025 Middle East and North Africa Machine Learning (MenaML) Winter School](https://www.mena.ml/) | Doha, Qatar | 9-14 February, 2025 |1 November, 2024 | Qatar Computing Research Institute (QCRI) - Hamad Bin Khalifa University | 100 QAR | A limited number of scholarships is available.
 [Annual Nepal AI School (ANAIS)](https://nepalschool.naamii.com.np/home) | Kathmandu, Nepal | 27 December 2024 - 6 January 2025 | 25 November 2024 | NAAMI, Nepal | 100 USD and up | N/A
+</details>
 
 ## Summer Schools in 2024
 <details>
