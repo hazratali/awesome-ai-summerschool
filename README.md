@@ -15,13 +15,14 @@
 ## Summer Schools in 2026
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-| 
-[SAIL Spring School Resilience and AI](https://indico.uni-paderborn.de/event/133/overview/)|Paderborn, Belgium |17 - 19 March 2026 | 5 Jan 2026| Paderborn University| Free |Registeration is free
 [Probabilistic AI School (ProbAI)](https://probabilistic.ai/)|Vilnius, Lithuania |3 - 7 August 2026 | To be updated| Norwegian University of Science and Technology and Artificial Intelligence Association of Lithuania| TBA for industry |N/A
+[The 29th BMVA Computer Vision Summer School (CVSS)](https://cvss.bmva.org/) | Durham UK | 13 - 17 July 2025 |31 May 2025 | BMVA and University of Aberdeen | 375 GBP, 725 with accommodation | N/A
 [Oxford Machine Learning Summer School - MLx HEALTH & BIO](https://www.oxfordml.school/2026) | Oxford, United Kingdom | 10 - 13 July 2026 | TBA | Uni of Oxford's Mathematical Institute and AI for Global Goals | To be announced | 50% waiver for low-income countries
 [European Summer School on Artificial Intelligence (ESSAI 2026)](https://essai2026.eu/) | Vienna, Austria | 6 - 10 July 2026 | N/A | TU Wien, WU Wien | N/A | Limited number available
 [UK Robotics Summer School](https://ukrss.site.hw.ac.uk/) | Edinburgh, UK | 22 - 26 June 2026 | 29 May 2026 | Heriot-Watt University | 400 GBP for students, 800 GBP for faculy | Limited travel support available
 [International Summer School for Advanced Studies on Biometrics, Behavior, and Vision](https://biometrics.uniss.it) | Alghero, Italy | 8 - 12 June 2026 | 15 Feb 2026 | Sponsors include IAPR, IEEE, EURASIP | 1950 Euros for students, 2600 otherwise | N/A
 [1st Internationa School on the Cognitive, Ethical, and Societal Dimensions of AI - AIces](https://aices.irdta.eu/2026/) | Porto, Portugal | 30 Mar - 3 Apr 2026 | 25 November, and onwards| Institute for Research Development, Training and Advice – IRDTA | 340 Euros - 670 Euros | Limited number available
+[SAIL Spring School Resilience and AI](https://indico.uni-paderborn.de/event/133/overview/)|Paderborn, Germany |17 - 19 March 2026 | 5 Jan 2026| Paderborn University| Free |Registeration is free
 [Winter School on Ethical, Legal, and Societal (ELS) aspects of AI and AS at Umeå University](https://mlwinterschoolumea.github.io/) | Umea, Sweden | 11 - 13 March 2025 | 10 February 2025 | Umeå University, Sweden | 150 Euros for students, 250 for faculty | N/A
 [Winter School on Social Robotics, Artificial Intelligence and Multimedia (SoRAIM 2026)](https://project.inria.fr/soraim/) | Autrans, France | 9 - 13 February 2026 | 09 December 2025 | NAVER LABS Europe | 700 Euros (includes accommodation) | N/A
 [Machine Learning Summer School (MLSS) Melbourne](https://www.mlss-melbourne.com/) | Melbourne, Australia | 2 - 13 February 2026 | 31 August 2025 | Maincode, Australia | 500 AUD | Limited number available
