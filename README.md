@@ -14,7 +14,7 @@
   - [Credits](#credits)
 ## Summer Schools in 2026
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
-------|--|---|---|--|-|-| 
+------|--|---|---|--|-|-|
 [Probabilistic AI School (ProbAI)](https://probai.school/)|Vilnius, Lithuania |3 - 7 August 2026 | opens in February| Norwegian University of Science and Technology and Artificial Intelligence Association of Lithuania| TBA for industry |N/A
 [The 29th BMVA Computer Vision Summer School (CVSS)](https://cvss.bmva.org/) | Durham UK | 13 - 17 July 2025 |31 May 2025 | BMVA and University of Aberdeen | 375 GBP, 725 with accommodation | N/A
 [Oxford Machine Learning Summer School - MLx HEALTH & BIO](https://www.oxfordml.school/2026) | Oxford, United Kingdom | 10 - 13 July 2026 | TBA | Uni of Oxford's Mathematical Institute and AI for Global Goals | To be announced | 50% waiver for low-income countries
@@ -25,6 +25,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [UK Robotics Summer School](https://ukrss.site.hw.ac.uk/) | Edinburgh, UK | 22 - 26 June 2026 | 29 May 2026 | Heriot-Watt University | 400 GBP for students, 800 GBP for faculy | Limited travel support available
 [Columbia University Machine Learning Summer School 2026](https://cfe.columbia.edu/events/machine-learning-summer-school-2026) |New York | 15 - 26 June 2026 | TBA | Columbia University, NYU CDS, Cornell Tech | TBA | Limited travel support available
 [International Summer School for Advanced Studies on Biometrics, Behavior, and Vision](https://biometrics.uniss.it) | Alghero, Italy | 8 - 12 June 2026 | 15 Feb 2026 | Sponsors include IAPR, IEEE, EURASIP | 1950 Euros for students, 2600 otherwise | N/A
+| [Spring School on Learning Over Time (LOT 2.0)](https://lot2-spring-school.cttc.es/) | Barcelona, Spain | 27 – 30 April 2026 | TBA | Centre Tecnològic de Telecomunicacions de Catalunya (CTTC) | 500 Euros for accademia, 700 Euros for industry | N/A
 [1st Internationa School on the Cognitive, Ethical, and Societal Dimensions of AI - AIces](https://aices.irdta.eu/2026/) | Porto, Portugal | 30 Mar - 3 Apr 2026 | 25 November, and onwards| Institute for Research Development, Training and Advice – IRDTA | 340 Euros - 670 Euros | Limited number available
 [Generative Modeling Summer School 2026 (GeMSS)](https://gemss.ai/2026/)|London, UK|23 - 27 March 2026 | 23 Jan 2026| Imperial College London| 400 GBP for students, 800 GBP for academics |Not announced
 [The Second Arabic NLP School](https://arabicnlpschool2026.sigarab.org/)|Rabat, Morocco |24 March 2026 | 31 Jan 2026| ACL Special Interest Group on Arabic Natural Language Processing| Free | Free
