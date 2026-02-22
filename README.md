@@ -15,6 +15,7 @@
 ## Summer Schools in 2026
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|-|
+[23rd International Summer Academy on AI in Healthcare, Medicine, and Biology](http://2026.biocomplexitysummerschool.org/)|Chalkida, Greece | 7 - 13 June 2026| 15 March 2026 | IEEE EMBS | 1500 USD | n/a
 [Ital-IA and Summer School on Artificial Intelligence in Health and Life Sciences](https://ucbmacademy.unicampus.it/summer-school-artificial-intelligence/)|Rome, Italy | 10-21 August 2026| to be announced | Università Campus Bio-Medico di Roma | 600 Euros | Reduced fee for students
 [Universty of Eastern Finland Summer School on AI for Computer Games 2026](https://www.uef.fi/en/uef-summer-school-courses)|Joensuu, Finland | 10-21 August 2026| to be announced | Statistical Machine Learning group | to be announced | NA
 [Cambridge CCAIM Machine Learning for Healthcare Summer School 2026](https://www.vanderschaar-lab.com/ml-healthcare-summer-school-2026/)|Cambridge, United Kingdom |07 Sep - 11 Sep 2026 | to be annouced| Cambridge Center for AI in Medicine| to be announed |Not announced
