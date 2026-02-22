@@ -14,11 +14,10 @@
   - [Credits](#credits)
 ## Summer Schools in 2026
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
-------|--|---|---|--|-|-|
-[23rd International Summer Academy on AI in Healthcare, Medicine, and Biology](http://2026.biocomplexitysummerschool.org/)|Chalkida, Greece | 7 - 13 June 2026| 15 March 2026 | IEEE EMBS | 1500 USD | n/a
-[Ital-IA and Summer School on Artificial Intelligence in Health and Life Sciences](https://ucbmacademy.unicampus.it/summer-school-artificial-intelligence/)|Rome, Italy | 10-21 August 2026| to be announced | Università Campus Bio-Medico di Roma | 600 Euros | Reduced fee for students
+------|--|---|---|--|-|--|
 [Universty of Eastern Finland Summer School on AI for Computer Games 2026](https://www.uef.fi/en/uef-summer-school-courses)|Joensuu, Finland | 10-21 August 2026| to be announced | Statistical Machine Learning group | to be announced | NA
 [Cambridge CCAIM Machine Learning for Healthcare Summer School 2026](https://www.vanderschaar-lab.com/ml-healthcare-summer-school-2026/)|Cambridge, United Kingdom |07 Sep - 11 Sep 2026 | to be annouced| Cambridge Center for AI in Medicine| to be announed |Not announced
+[Ital-IA and Summer School on Artificial Intelligence in Health and Life Sciences](https://ucbmacademy.unicampus.it/summer-school-artificial-intelligence/)|Rome, Italy | 10-21 August 2026| to be announced | Università Campus Bio-Medico di Roma | 600 Euros | Reduced fee for students
 [Probabilistic AI School (ProbAI)](https://probai.school/)|Vilnius, Lithuania |3 - 7 August 2026 | opens in February| Norwegian University of Science and Technology and Artificial Intelligence Association of Lithuania| TBA for industry |N/A
 [The African Computer Vision Summer School (ACVSS) ](https://www.acvss.ai/)|Accra, Ghana | 19 - 29 July 2026| 1st March 2026 | DAIR, INRIA, Google Deep Mind, and others | 500 - 1000 USD | Yes, available
 [The 29th BMVA Computer Vision Summer School (CVSS)](https://cvss.bmva.org/) | Durham UK | 13 - 17 July 2025 |31 May 2025 | BMVA and University of Aberdeen | 375 GBP, 725 with accommodation | N/A
@@ -31,6 +30,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [Machine Learning Crash Course at MALGA](https://malga.unige.it/education/schools/mlcc2026/)|Genoa, Italy |15 - 19 June 2026 | 1 Mar 2026| Machine Learning Genoa Center, University of Genoa | 50 Euro for students, 100 Euros for professors, 300 Euros for professionals |Full waiver for UniGe students
 [UK Robotics Summer School](https://ukrss.site.hw.ac.uk/) | Edinburgh, UK | 22 - 26 June 2026 | 29 May 2026 | Heriot-Watt University | 400 GBP for students, 800 GBP for faculy | Limited travel support available
 [Columbia University Machine Learning Summer School 2026](https://cfe.columbia.edu/content/mlss2) |New York | 15 - 26 June 2026 | 22 March 2026 | Columbia University, NYU CDS, Cornell Tech | 800 USD | Limited travel support available
+[23rd International Summer Academy on AI in Healthcare, Medicine, and Biology](http://2026.biocomplexitysummerschool.org/)|Chalkida, Greece | 7 - 13 June 2026| 15 March 2026 | IEEE EMBS | 1500 USD | n/a
 [International Summer School for Advanced Studies on Biometrics, Behavior, and Vision](https://biometrics.uniss.it) | Alghero, Italy | 8 - 12 June 2026 | 15 Feb 2026 | Sponsors include IAPR, IEEE, EURASIP | 1950 Euros for students, 2600 otherwise | N/A
 | [Spring School on Learning Over Time (LOT 2.0)](https://lot2-spring-school.cttc.es/) | Barcelona, Spain | 27 – 30 April 2026 | TBA | Centre Tecnològic de Telecomunicacions de Catalunya (CTTC) | 500 Euros for accademia, 700 Euros for industry | N/A
 [1st Internationa School on the Cognitive, Ethical, and Societal Dimensions of AI - AIces](https://aices.irdta.eu/2026/) | Porto, Portugal | 30 Mar - 3 Apr 2026 | 25 November, and onwards| Institute for Research Development, Training and Advice – IRDTA | 340 Euros - 670 Euros | Limited number available
