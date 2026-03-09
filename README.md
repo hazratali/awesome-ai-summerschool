@@ -25,7 +25,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [ELLIS Summer School on Machine Learning for Healthcare and Biology 2026](https://www.ellismcr.org/summerschool)|Manchester, UK |7-9 July 2026 | 30 May | ELLIS and University of Manchester | 150 Euro | Fee is reduced already
 [European Summer School on Artificial Intelligence (ESSAI 2026)](https://essai2026.eu/) | Vienna, Austria | 6 - 10 July 2026 | N/A | TU Wien, WU Wien | N/A | Limited number available
 [Machine Learning Summer School on Reliability & Safety (MLSS^R&S 2026)](https://mlss2026.mlinpl.org) | Krakow, Poland | 29 June - 3 July 2026 | Early: 8 March Late: 19 April | Jagiellonian University, GMUM, ML in PL, IDEAS RI, ELLIS Unit Warsaw | Academia: 350 EUR, Non-academia: 700 EUR | N/A
-[12th ScaDS.AI International Summer School on AI and Big Data - Neuro+Symbolic AI](https://scads.ai/event/summer-schools/summer-school-2026/) | Leipzig, Germany | 22 - 26 June 2026 | TBA | Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) Dresden/Leipzig | TBA | TBA
+[12th ScaDS.AI International Summer School on AI and Big Data - Neuro+Symbolic AI](https://scads.ai/event/summer-schools/summer-school-2026/) | Leipzig, Germany | 22 - 26 June 2026 | [Early: 22 April, Late: 15 June](https://scads.ai/event/summer-schools/summer-school-2026/#registration) | Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI) Dresden/Leipzig | [510 - 910 EUR, Day Pass: 220 EUR](https://scads.ai/event/summer-schools/summer-school-2026/#feeScheme) | TBA
 [Robotics, Perception and Learning (RPL) Summer School](https://summer-school.rpl.eecs.kth.se/)|Stockholm, Sweden |21 - 26 June 2026 | 08 Feb 2026| KTH Royal Institute of Technology| No fee |N/A
 [Machine Learning Crash Course at MALGA](https://malga.unige.it/education/schools/mlcc2026/)|Genoa, Italy |15 - 19 June 2026 | 1 Mar 2026| Machine Learning Genoa Center, University of Genoa | 50 Euro for students, 100 Euros for professors, 300 Euros for professionals |Full waiver for UniGe students
 [Ital-IA and Summer School on Artificial Intelligence in Health and Life Sciences](https://ucbmacademy.unicampus.it/summer-school-artificial-intelligence/)|Rome, Italy | 13-29 June| to be announced | Università Campus Bio-Medico di Roma | 600 Euros | Reduced fee for students
@@ -259,6 +259,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 - No. However, some of the enteries in the lists may overlap. The purpose is to share the opportunities with the community and aspiring AI researchers/engineers, data scientists.  
 
 </details>
+
 
 
 
