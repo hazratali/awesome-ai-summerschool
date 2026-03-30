@@ -15,6 +15,7 @@
 ## Summer Schools in 2026
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|--|
+[UCL Medical Image Computing Summer School (MedICSS)](https://www.ucl.ac.uk/hawkes-institute/ucl-medical-image-computing-and-surgical-sciences-medicss-summer-school)|London, United Kingdom |29 June - 03 July, 2026 | 24 April 2026 |UCL Centre for Medical Image Computing (CMIC), Hawkes Institute| 250 - 350 GBP |Fee waiver for lower-income countries. Reduced fee for online/virtual
 [6th Big Data Africa School](https://www.sarao.ac.za/researchandstudy/6th-big-data-africa-school/)| Capte Town, South Africa | 4 - 10 October, 2026 | 3 May 2026 | South African Radio Astronomy Observatory (SARAO) | Not announced | For students from Africa
 [International Artificial Intelligence Summer School – IAISS 2026](https://2026.iaiss.cc/) | Italy, Castiglione della Pescaia (Grosseto) | 20 - 24 September, 2026 | 23 April 2026 | University of Catania, Italy - University of Florida, USA | 580 - 630 Euros | N/A
 [Cambridge CCAIM Machine Learning for Healthcare Summer School 2026](https://www.vanderschaar-lab.com/ml-healthcare-summer-school-2026/)|Cambridge, United Kingdom |07 Sep - 11 Sep 2026 | to be annouced| Cambridge Center for AI in Medicine| to be announed |Not announced
