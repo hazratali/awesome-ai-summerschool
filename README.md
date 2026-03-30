@@ -15,6 +15,7 @@
 ## Summer Schools in 2026
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|--|
+[6th Big Data Africa School](https://www.sarao.ac.za/researchandstudy/6th-big-data-africa-school/)| Capte Town, South Africa | 4 - 10 October, 2026 | 3 May 2026 | South African Radio Astronomy Observatory (SARAO) | Not announced | For students from Africa
 [International Artificial Intelligence Summer School – IAISS 2026](https://2026.iaiss.cc/) | Italy, Castiglione della Pescaia (Grosseto) | 20 - 24 September, 2026 | 23 April 2026 | University of Catania, Italy - University of Florida, USA | 580 - 630 Euros | N/A
 [Cambridge CCAIM Machine Learning for Healthcare Summer School 2026](https://www.vanderschaar-lab.com/ml-healthcare-summer-school-2026/)|Cambridge, United Kingdom |07 Sep - 11 Sep 2026 | to be annouced| Cambridge Center for AI in Medicine| to be announed |Not announced
 [Universty of Eastern Finland Summer School on AI for Computer Games 2026](https://www.uef.fi/en/uef-summer-school-courses)|Joensuu, Finland | 10-21 August 2026| to be announced | Statistical Machine Learning group | to be announced | NA
