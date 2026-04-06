@@ -1,8 +1,15 @@
 # Summer Schools in Artificial Intelligence 
 > Various summer schools / winter schools in the field of <span style="color: #CCCCFF;font-weight:bold">artificial intelligence, machine learning, medical imaging and healthcare</span>
 
-## Table of Contents
+![](/assets/howto.png)
+### How can you contribute?
+- Fork the repo and create a pull request to add schools. 
+- Star the repo.
+- Bookmark the github link
+- Share with others. 
 
+
+## Table of Contents
 - [Summer Schools in Artificial Intelligence](#summer-schools-in-artificial-intelligence)
   - [Table of Contents](#table-of-contents)
   - [Summer Schools in 2026](#summer-schools-in-2026)
