@@ -22,6 +22,7 @@
 ## Summer Schools in 2026
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|--|
+[Reinforcement Learning Summer School (RLSS)](https://rlsummerschool.com/)| Milan, Italy | 3 - 12 June, 2026 |31 March, 2026 | ELLIS Unit Milan | 400 Euros for students, 500 Euros for faculty, 700 Euros for industry| NA
 [The Robotics and AI for Materials Chemistry Winter School](https://aichemy.ac.uk/event/winter-school-robotics-and-ai-for-materials-chemistry-2026/)| Liverpool, United Kingdom | 23 - 27 Nov, 2026 | 24 August, 2026 | Alchemy Hub, University of Liverpool | 150 GBP for students, 300 GBP for others| NA
 [6th Big Data Africa School](https://www.sarao.ac.za/researchandstudy/6th-big-data-africa-school/)| Capte Town, South Africa | 4 - 10 October, 2026 | 3 May 2026 | South African Radio Astronomy Observatory (SARAO) | Not announced | For students from Africa
 [International Artificial Intelligence Summer School – IAISS 2026](https://2026.iaiss.cc/) | Italy, Castiglione della Pescaia (Grosseto) | 20 - 24 September, 2026 | 23 April 2026 | University of Catania, Italy - University of Florida, USA | 580 - 630 Euros | N/A
