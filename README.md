@@ -22,6 +22,7 @@
 ## Summer Schools in 2026
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|--|
+[The EUSFLAT VII European Summer School on Fuzzy Logic and Applications (SFLA 2026)](https://eusflat.org/summer-school-2026/)| Warsaw, Poland | 6 - 10 July, 2026 | 10 May 2026 | Warsaw University of Technology, The Polish Society for Fuzzy Sets (POLFUZZ) | 250 - 300 Euros | Available for EUSFLAT members
 [6th Big Data Africa School](https://www.sarao.ac.za/researchandstudy/6th-big-data-africa-school/)| Capte Town, South Africa | 4 - 10 October, 2026 | 3 May 2026 | South African Radio Astronomy Observatory (SARAO) | Not announced | For students from Africa
 [International Artificial Intelligence Summer School – IAISS 2026](https://2026.iaiss.cc/)| Tuscany, Italy | 20 - 24 September, 2026 | 23 May 2026 (for early registration fee) | University of Catania and others| 580 Euros (for early registration) | N/A
 [International Artificial Intelligence Summer School – IAISS 2026](https://2026.iaiss.cc/) | Italy, Castiglione della Pescaia (Grosseto) | 20 - 24 September, 2026 | 23 April 2026 | University of Catania, Italy - University of Florida, USA | 580 - 630 Euros | N/A
