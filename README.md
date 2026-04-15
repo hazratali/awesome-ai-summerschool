@@ -23,6 +23,7 @@
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|--|
 [6th Big Data Africa School](https://www.sarao.ac.za/researchandstudy/6th-big-data-africa-school/)| Capte Town, South Africa | 4 - 10 October, 2026 | 3 May 2026 | South African Radio Astronomy Observatory (SARAO) | Not announced | For students from Africa
+[WHERE, Walk the Future – International Euregio Summer School on Legged Robots](https://eventi.unitn.it/en/where-walk-future) | Trento, Italy | 21 - 27 September 2026 | Early: 30 June 2026; Late: 16 August 2026 | University of Trento | 250 – 420 Euros | Free for PhD/last-year MSc students of UniTN/UniBZ
 [International Artificial Intelligence Summer School – IAISS 2026](https://2026.iaiss.cc/)| Tuscany, Italy | 20 - 24 September, 2026 | 23 May 2026 (for early registration fee) | University of Catania and others| 580 Euros (for early registration) | N/A
 [International Artificial Intelligence Summer School – IAISS 2026](https://2026.iaiss.cc/) | Italy, Castiglione della Pescaia (Grosseto) | 20 - 24 September, 2026 | 23 April 2026 | University of Catania, Italy - University of Florida, USA | 580 - 630 Euros | N/A
 [Cambridge CCAIM Machine Learning for Healthcare Summer School 2026](https://www.vanderschaar-lab.com/ml-healthcare-summer-school-2026/)|Cambridge, United Kingdom |07 Sep - 11 Sep 2026 | to be annouced| Cambridge Center for AI in Medicine| to be announed |Not announced
