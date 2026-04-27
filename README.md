@@ -22,6 +22,7 @@
 ## Summer Schools in 2026
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|--|
+[Machine Learning Photonics](https://mlph2026.lakecomoschool.org/)| Lake Como, Italy | 24 - 28 August, 2026 | 15 June, 2026 | Lake Como School of Advanced Studies | 650 Euros| NA
 [The Robotics and AI for Materials Chemistry Winter School](https://aichemy.ac.uk/event/winter-school-robotics-and-ai-for-materials-chemistry-2026/)| Liverpool, United Kingdom | 23 - 27 Nov, 2026 | 24 August, 2026 | Alchemy Hub, University of Liverpool | 150 GBP for students, 300 GBP for others| NA
 [6th Big Data Africa School](https://www.sarao.ac.za/researchandstudy/6th-big-data-africa-school/)| Capte Town, South Africa | 4 - 10 October, 2026 | 3 May 2026 | South African Radio Astronomy Observatory (SARAO) | Not announced | For students from Africa
 [WHERE, Walk the Future – International Euregio Summer School on Legged Robots](https://eventi.unitn.it/en/where-walk-future) | Trento, Italy | 21 - 27 September 2026 | Early: 30 June 2026; Late: 16 August 2026 | University of Trento | 250 – 420 Euros | Free for PhD/last-year MSc students of UniTN/UniBZ
