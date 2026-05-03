@@ -23,6 +23,7 @@
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|--|
 [2026 IEEE SMCS International Summer School on Artificial Intelligence for Cognitive Technologies](https://isact-org.github.io/)| Singapore | 29 June - 03 July, 2026 | 15 May, 2026 | Otto von Guericke University Magdeburg, Germany and NTU Singapore | 400 USD for students, 700 USD for non-students| NA
+[SMILES-2026: Summer School of Machine Learning](https://smiles.skoltech.ru)| Nanjing University, Suzhou, China | 13 - 27 July, 2026 | 12 May, 2026 | Skoltech AI Center and Nanjing University | Free; accommodation and meals covered | Travel grants available for some participants
 [The Robotics and AI for Materials Chemistry Winter School](https://aichemy.ac.uk/event/winter-school-robotics-and-ai-for-materials-chemistry-2026/)| Liverpool, United Kingdom | 23 - 27 Nov, 2026 | 24 August, 2026 | Alchemy Hub, University of Liverpool | 150 GBP for students, 300 GBP for others| NA
 [6th Big Data Africa School](https://www.sarao.ac.za/researchandstudy/6th-big-data-africa-school/)| Capte Town, South Africa | 4 - 10 October, 2026 | 3 May 2026 | South African Radio Astronomy Observatory (SARAO) | Not announced | For students from Africa
 [Short Course on Artificial Intelligence for Environmental Data](https://www.climes.se/event/ai-for-environmental-data/)| Gothenburg, Germany | 06 - 07 Oct, 2026 | 29 May, 2026 | CLIMES -Swedish Center for Impacts of Climate Extremes  | Free to attend | NA
