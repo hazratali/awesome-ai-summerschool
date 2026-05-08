@@ -22,6 +22,7 @@
 ## Summer Schools in 2026
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|--|
+[MIT CV4Ecology Summer School 2027](https://cv4ecology.csail.mit.edu/call_for_applications.html) | Smithsonian Conservation Biology Institute, VA, USA | 18 - 29 January, 2027 | 13 June, 2026 | Caltech | USD 2823  | Available for students from underrepresented or low-resource backgrounds
 [The Robotics and AI for Materials Chemistry Winter School](https://aichemy.ac.uk/event/winter-school-robotics-and-ai-for-materials-chemistry-2026/)| Liverpool, United Kingdom | 23 - 27 Nov, 2026 | 24 August, 2026 | Alchemy Hub, University of Liverpool | 150 GBP for students, 300 GBP for others| NA
 [6th Big Data Africa School](https://www.sarao.ac.za/researchandstudy/6th-big-data-africa-school/)| Capte Town, South Africa | 4 - 10 October, 2026 | 3 May 2026 | South African Radio Astronomy Observatory (SARAO) | Not announced | For students from Africa
 [Short Course on Artificial Intelligence for Environmental Data](https://www.climes.se/event/ai-for-environmental-data/)| Gothenburg, Germany | 06 - 07 Oct, 2026 | 29 May, 2026 | CLIMES -Swedish Center for Impacts of Climate Extremes  | Free to attend | NA
@@ -49,6 +50,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [The Lisbon Machine Learning Summer School (LxMLS)](http://lxmls.it.pt/2026/)| Lisbon, Portugal | 20 - 25 July, 2026 | 29 April 2026 | Instituto Superior Técnico (IST) | 400 Euros for students, 450 Euros for professors | N/A
 [The African Computer Vision Summer School (ACVSS) ](https://www.acvss.ai/)|Accra, Ghana | 19 - 29 July 2026| 1st March 2026 | DAIR, INRIA, Google Deep Mind, and others | 500 - 1000 USD | Yes, available
 [AI for Science European Summer School](https://www.aiforscience.school/)| Athens, Greece | 16 - 17 July, 2026 | 10 May 2026 | Organised by the Hellenic Institute of Advanced Studies  | 100 Euros | Travel grants available
+[LogML Summer School 2026](https://www.logml.ai/) | London, United Kingdom | 13 - 17 July 2026 | 10 May 2026 | Researchers from Imperial College London, UCL, etc | GBP 325 for students, GBP 400 for postdocs, GBP 500 for others | Few Available
 [The 29th BMVA Computer Vision Summer School (CVSS)](https://cvss.bmva.org/) | Durham UK | 13 - 17 July 2025 |31 May 2025 | BMVA and University of Aberdeen | 375 GBP, 725 with accommodation | N/A
 [SMILES-2026: Summer School of Machine Learning](https://smiles.skoltech.ru)| Nanjing University, Suzhou, China | 13 - 27 July, 2026 | 12 May, 2026 | Skoltech AI Center and Nanjing University | Free; accommodation and meals covered | Travel grants available for some participants
 [Bocconi-StatML Summer School in Statistics and Probability ](https://2026.iaiss.cc/) | Lake Como School of Advanced Studies, Como, Italy | 8 - 17 July, 2026 | 14 April 2026 | niversità Bocconi in collaboration with the University of Oxford and Imperial College London |600 Euros | N/A
