@@ -22,6 +22,7 @@
 ## Summer Schools in 2026
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|--|
+|[PJAIT International Summer School on Disinformation Detection and Debunking](https://pja.edu.pl/en/pjait-summer-school-disinformation-detection-debunking/) | Warsaw, Poland (Hybrid) | 12 - 18 September 2026 | 20 June 2026 | PJAIT, University of Koblenz, Open University of Cyprus | Free (NAWA-funded) | Available for 5 international PhD candidates (travel, hotel, meals)
 [MIT CV4Ecology Summer School 2027](https://cv4ecology.csail.mit.edu/call_for_applications.html) | Smithsonian Conservation Biology Institute, VA, USA | 18 - 29 January, 2027 | 13 June, 2026 | Caltech | USD 2823  | Available for students from underrepresented or low-resource backgrounds
 [The Robotics and AI for Materials Chemistry Winter School](https://aichemy.ac.uk/event/winter-school-robotics-and-ai-for-materials-chemistry-2026/)| Liverpool, United Kingdom | 23 - 27 Nov, 2026 | 24 August, 2026 | Alchemy Hub, University of Liverpool | 150 GBP for students, 300 GBP for others| NA
 [6th Big Data Africa School](https://www.sarao.ac.za/researchandstudy/6th-big-data-africa-school/)| Capte Town, South Africa | 4 - 10 October, 2026 | 3 May 2026 | South African Radio Astronomy Observatory (SARAO) | Not announced | For students from Africa
