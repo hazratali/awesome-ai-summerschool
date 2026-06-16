@@ -22,6 +22,7 @@
 ## Summer Schools in 2026
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|--|
+[GeMAIHc 2027: 1st International School on Generative & Multimodal AI for Healthcare](https://gemaihc.irdta.eu/2027/) | Milan, Italy | 1 – 5 February 2027 | 22 June 2026 (Early Registration Deadline) | IRDTA and  Human Technopole | 340 Euros to 670 Euros | Not mentioned
 [1st International School on Generative and Multimodal AI for Healthcare (GeMAIHc 2027)](https://gemaihc.irdta.eu/2027/) | Milan, Italy | 1 – 5 February 2027 | N/A | Institute for Research Development, Training and Advice (IRDTA) | 340 Euros to 670 Euros | N/A
 [MIT CV4Ecology Summer School 2027](https://cv4ecology.csail.mit.edu/call_for_applications.html) | Smithsonian Conservation Biology Institute, VA, USA | 18 - 29 January, 2027 | 13 June, 2026 | Caltech | USD 2823  | Available for students from underrepresented or low-resource backgrounds
 [The Robotics and AI for Materials Chemistry Winter School](https://aichemy.ac.uk/event/winter-school-robotics-and-ai-for-materials-chemistry-2026/)| Liverpool, United Kingdom | 23 - 27 Nov, 2026 | 24 August, 2026 | Alchemy Hub, University of Liverpool | 150 GBP for students, 300 GBP for others| NA
