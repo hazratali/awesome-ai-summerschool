@@ -19,17 +19,22 @@
   - [Summer Schools in 2022](#summer-schools-in-2022)
   - [FAQs](#faqs)
   - [Credits](#credits)
-## Summer Schools in 2026
+## Summer Schools in 2027
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|--|
 [GeMAIHc 2027: 1st International School on Generative & Multimodal AI for Healthcare](https://gemaihc.irdta.eu/2027/) |  Milan, Italy | 1 – 5 February 2027 | N/A | IRDTA and Human Technopole | 340 Euros to 670 Euros | N/A
 [MIT CV4Ecology Summer School 2027](https://cv4ecology.csail.mit.edu/call_for_applications.html) | Smithsonian Conservation Biology Institute, VA, USA | 18 - 29 January, 2027 | 13 June, 2026 | Caltech | USD 2823  | Available for students from underrepresented or low-resource backgrounds
 [United Nations University Program on Digital Technology and Sustainable Development (DTSD)](https://unu.edu/merit/training/united-nations-university-program-digital-technology-and-sustainable-development) | Maastricht, The Netherlands and Bonn, Germany | 18 – 22 January 2027 | 1 October 2026 | UNU-MERIT, UNU-EHS, and UNU-MACAU | 1,250 Euros | N/A
 [Prob_AI Winter School 2027 (Mathematical Foundations of Probabilistic AI)](https://www.probai.ac.uk/events/event/?id=407a03e5-a96f-4e78-99a9-2bc6ed3ae5f0) | Bristol, United Kingdom | 5 – 8 January 2027 | 9 July 2026 | Prob AI Hub and University of Bristol  | Free to attend | Access Fund available 
+
+## Summer Schools in 2026
+Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
+------|--|---|---|--|-|--|
 [The Robotics and AI for Materials Chemistry Winter School](https://aichemy.ac.uk/event/winter-school-robotics-and-ai-for-materials-chemistry-2026/)| Liverpool, United Kingdom | 23 - 27 Nov, 2026 | 24 August, 2026 | Alchemy Hub, University of Liverpool | 150 GBP for students, 300 GBP for others| NA
 [The 4th Federated Machine Learning International Summer School](https://school.flta-conference.org/) | Paris, France | 19 – 27 October 2026 | 01 August 2026 | OpenMinded and others | USD 900 | N/A
 [6th Big Data Africa School](https://www.sarao.ac.za/researchandstudy/6th-big-data-africa-school/)| Capte Town, South Africa | 4 - 10 October, 2026 | 3 May 2026 | South African Radio Astronomy Observatory (SARAO) | Not announced | For students from Africa
 [Short Course on Artificial Intelligence for Environmental Data](https://www.climes.se/event/ai-for-environmental-data/)| Gothenburg, Germany | 06 - 07 Oct, 2026 | 29 May, 2026 | CLIMES -Swedish Center for Impacts of Climate Extremes  | Free to attend | NA
+[African Fall School on Software Engineering & AI (ASEAI 2026)](https://conf.researchr.org/home/aseai-2026) | Rabat, Morocco | 28 – 30 September 2026 | 10 Sep 2026 | ACM SIGSOFT, ENSIAS, and Mohammed V University | Not available | Online participation is free
 [WHERE, Walk the Future – International Euregio Summer School on Legged Robots](https://eventi.unitn.it/en/where-walk-future) | Trento, Italy | 21 - 27 September 2026 | Early: 30 June 2026; Late: 16 August 2026 | University of Trento | 250 – 420 Euros | Free for PhD/last-year MSc students of UniTN/UniBZ
 [IWR School AI for Science](https://www.iwr.uni-heidelberg.de/en/iwr-school-2026)| Heidelberg, Germany | 21 - 25 Sep, 2026 | 15 June, 2026 | The Konrad Zuse School of Excellence in Learning and Intelligent Systems (ELIZA) and University of Heidelberg | 400 Euros| Free for Members of Heidelberg University / ELIZA
 [International Artificial Intelligence Summer School – IAISS 2026](https://2026.iaiss.cc/)| Tuscany, Italy | 20 - 24 September, 2026 | 23 May 2026 (for early registration fee) | University of Catania and others| 580 Euros (for early registration) | N/A
