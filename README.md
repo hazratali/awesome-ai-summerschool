@@ -22,6 +22,7 @@
 ## Summer Schools in 2027
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|--|
+[ACM Europe Winter School on Social Robotics, Artificial Intelligence and Multimedia (SoRAIM’27)](https://project.inria.fr/soraim/) | Grenoble, France | 1 – 5 February 2027 | Not explicitly specified (Applications open) | Inria, ACM, and others| 700 Euros - 850 Euros | Not available
 [GeMAIHc 2027: 1st International School on Generative & Multimodal AI for Healthcare](https://gemaihc.irdta.eu/2027/) |  Milan, Italy | 1 – 5 February 2027 | N/A | IRDTA and Human Technopole | 340 Euros to 670 Euros | N/A
 [MIT CV4Ecology Summer School 2027](https://cv4ecology.csail.mit.edu/call_for_applications.html) | Smithsonian Conservation Biology Institute, VA, USA | 18 - 29 January, 2027 | 13 June, 2026 | Caltech | USD 2823  | Available for students from underrepresented or low-resource backgrounds
 [United Nations University Program on Digital Technology and Sustainable Development (DTSD)](https://unu.edu/merit/training/united-nations-university-program-digital-technology-and-sustainable-development) | Maastricht, The Netherlands and Bonn, Germany | 18 – 22 January 2027 | 1 October 2026 | UNU-MERIT, UNU-EHS, and UNU-MACAU | 1,250 Euros | N/A
@@ -30,6 +31,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 ## Summer Schools in 2026
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|--|
+[Lucia Winter School on AI & Robotics](https://mlscientist.com/lucia-winter-school-ai-robotics-sweden/) | Örebro University, Sweden | 7-11 December 2026 | 10 Sep 2026 | Örebro University and AI-on-Demand (AIoD) initiative | Free | N/A
 [The Robotics and AI for Materials Chemistry Winter School](https://aichemy.ac.uk/event/winter-school-robotics-and-ai-for-materials-chemistry-2026/)| Liverpool, United Kingdom | 23 - 27 Nov, 2026 | 24 August, 2026 | Alchemy Hub, University of Liverpool | 150 GBP for students, 300 GBP for others| NA
 [The 4th Federated Machine Learning International Summer School](https://school.flta-conference.org/) | Paris, France | 19 – 27 October 2026 | 01 August 2026 | OpenMinded and others | USD 900 | N/A
 [6th Big Data Africa School](https://www.sarao.ac.za/researchandstudy/6th-big-data-africa-school/)| Capte Town, South Africa | 4 - 10 October, 2026 | 3 May 2026 | South African Radio Astronomy Observatory (SARAO) | Not announced | For students from Africa
