@@ -27,6 +27,7 @@ Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholar
 [MIT CV4Ecology Summer School 2027](https://cv4ecology.csail.mit.edu/call_for_applications.html) | Smithsonian Conservation Biology Institute, VA, USA | 18 - 29 January, 2027 | 13 June, 2026 | Caltech | USD 2823  | Available for students from underrepresented or low-resource backgrounds
 [United Nations University Program on Digital Technology and Sustainable Development (DTSD)](https://unu.edu/merit/training/united-nations-university-program-digital-technology-and-sustainable-development) | Maastricht, The Netherlands and Bonn, Germany | 18 – 22 January 2027 | 1 October 2026 | UNU-MERIT, UNU-EHS, and UNU-MACAU | 1,250 Euros | N/A
 [Prob_AI Winter School 2027 (Mathematical Foundations of Probabilistic AI)](https://www.probai.ac.uk/events/event/?id=407a03e5-a96f-4e78-99a9-2bc6ed3ae5f0) | Bristol, United Kingdom | 5 – 8 January 2027 | 9 July 2026 | Prob AI Hub and University of Bristol  | Free to attend | Access Fund available 
+[7th Annual Nepal AI School (ANAIS 2026)](https://anais.naamii.org.np/?utm_source=gemini) | Kathmandu, Nepal | 28 Dec 2026 – 7 Jan 2027 | 10 October 2026 (International Scholarship), 31 October 2026 (Nepal Student Scholarship), 15 November 2026 (Non-Scholarship) | NepAl Applied Mathematics and Informatics Institute for research (NAAMII) | NPR 12,000 or USD 120 to NPR 40,000 or USD 400 | Scholarships available
 
 ## Summer Schools in 2026
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
