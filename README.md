@@ -22,7 +22,8 @@
 ## Summer Schools in 2027
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|--|
-[ACM Europe Winter School on Social Robotics, Artificial Intelligence and Multimedia (SoRAIM’27)](https://project.inria.fr/soraim/) | Grenoble, France | 1 – 5 February 2027 | Not explicitly specified (Applications open) | Inria, ACM, and others| 700 Euros - 850 Euros | Not available
+[Göttingen Emergent Minds (GoEMMI) 2027 Winter School](https://events.gwdg.de/event/1440/) | Göttingen, Germany | 15 February 2027 – 6 March 2027 | 1 Oct 2026 | Max Planck Institute for Dynamics and Self-Organization, and University of Göttingen | No fee| Some travel support might be available
+[ACM Europe Winter School on Social Robotics, Artificial Intelligence and Multimedia (SoRAIM’27)](https://project.inria.fr/soraim/) | Grenoble, France | 1 – 5 February 2027 | Started 1 September 2027 | Inria, ACM, and others| 700 Euros - 850 Euros | Room covered in fee. 
 [GeMAIHc 2027: 1st International School on Generative & Multimodal AI for Healthcare](https://gemaihc.irdta.eu/2027/) |  Milan, Italy | 1 – 5 February 2027 | N/A | IRDTA and Human Technopole | 340 Euros to 670 Euros | N/A
 [MIT CV4Ecology Summer School 2027](https://cv4ecology.csail.mit.edu/call_for_applications.html) | Smithsonian Conservation Biology Institute, VA, USA | 18 - 29 January, 2027 | 13 June, 2026 | Caltech | USD 2823  | Available for students from underrepresented or low-resource backgrounds
 [United Nations University Program on Digital Technology and Sustainable Development (DTSD)](https://unu.edu/merit/training/united-nations-university-program-digital-technology-and-sustainable-development) | Maastricht, The Netherlands and Bonn, Germany | 18 – 22 January 2027 | 1 October 2026 | UNU-MERIT, UNU-EHS, and UNU-MACAU | 1,250 Euros | N/A
