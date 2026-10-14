@@ -12,6 +12,7 @@
 ## Table of Contents
 - [Summer Schools in Artificial Intelligence](#summer-schools-in-artificial-intelligence)
   - [Table of Contents](#table-of-contents)
+  - [Summer Schools in 2027](#summer-schools-in-2027)
   - [Summer Schools in 2026](#summer-schools-in-2026)
   - [Summer Schools in 2025](#summer-schools-in-2025)
   - [Summer Schools in 2024](#summer-schools-in-2024)
@@ -22,6 +23,9 @@
 ## Summer Schools in 2027
 Name | Venue | Date | Deadline :alarm_clock: | Organizers | Fee :euro: | Scholarship :droplet:
 ------|--|---|---|--|-|--|
+[International Artificial Intelligence Summer School – IAISS 2027](https://2027.iaiss.cc/) | Riva del Sole Resort & SPA, Castiglione della Pescaia, Tuscany, Italy | 19 - 23 September 2027 | 15 April 2027 | ICAS; directors: Giuseppe Nicosia, Panos Pardalos and Giuseppe Di Fatta | 580 Euros (early registration); mandatory accommodation extra | No financial support available
+[10th Advanced Course on Data Science & Machine Learning – ACDL 2027](https://acdl2027.icas.events/) | Riva del Sole Resort & SPA, Castiglione della Pescaia, Tuscany, Italy | 7 - 11 June 2027 | 23 February 2027 | ICAS; directors: Giuseppe Nicosia and Panos Pardalos | 580 Euros (early registration); mandatory accommodation extra | No financial support available
+[International Artificial Intelligence Winter School – IAIWS 2027](https://2027.iaiws.cc/) | TH Borca di Cadore, Park Hotel Des Dolomites, Borca di Cadore (Belluno), Veneto, Italy | 19 - 23 March 2027 | 15 December 2026 | ICAS; director: Giuseppe Nicosia | 580 Euros (early registration); mandatory accommodation extra | No financial support available
 [Göttingen Emergent Minds (GoEMMI) 2027 Winter School](https://events.gwdg.de/event/1440/) | Göttingen, Germany | 15 February 2027 – 6 March 2027 | 1 Oct 2026 | Max Planck Institute for Dynamics and Self-Organization, and University of Göttingen | No fee| Some travel support might be available
 [ACM Europe Winter School on Social Robotics, Artificial Intelligence and Multimedia (SoRAIM’27)](https://project.inria.fr/soraim/) | Grenoble, France | 1 – 5 February 2027 | Started 1 September 2027 | Inria, ACM, and others| 700 Euros - 850 Euros | Room covered in fee. 
 [GeMAIHc 2027: 1st International School on Generative & Multimodal AI for Healthcare](https://gemaihc.irdta.eu/2027/) |  Milan, Italy | 1 – 5 February 2027 | N/A | IRDTA and Human Technopole | 340 Euros to 670 Euros | N/A
